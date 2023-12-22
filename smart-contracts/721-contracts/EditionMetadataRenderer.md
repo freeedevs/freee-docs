@@ -4,7 +4,7 @@ description: Metadata rendering contract for NFTs with all the same media assets
 
 # EditionMetadataRenderer
 
-This contract is in charge of managing and rendering the metadata for Zora editions.
+This contract is in charge of managing and rendering the metadata for editions.
 An edition is an NFT collection where all the NFTs share the same media asset (video, image, etc).
 
 Whenever a `tokenURI` is called on the NFT contract, the call is forwarded to this contract to get metadata for a specific NFT.

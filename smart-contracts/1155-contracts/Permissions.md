@@ -61,7 +61,7 @@ function setOwner(address newOwner) external onlyAdmin(CONTRACT_BASE_ID)
 For granting permission at the contract level, 0 is passed in as the tokenId
 Only an admin can add an address as a role. 
 
-By default, both the Zora minters have the contract level minter role in the contract.
+By default, both the minters have the contract level minter role in the contract.
 
 ```sol
 function addPermission(

@@ -66,13 +66,13 @@ Calling the `sale` function on the fixed-price minter will return the price for 
 
 Mints tokens based on a merkle tree.
 
-`ETH transaction value = ((price + Zora mint fee) * amount)`
+`ETH transaction value = ((price + mint fee) * amount)`
 
 `minterArguments`: Address to mint to, Max quantity, Price per token, Merkle proof
 
 ## Admin Minting
 
-Admins can mint NFTs to addresses. These NFTs **do not** incur the Zora mint fee.
+Admins can mint NFTs to addresses. These NFTs **do not** incur the mint fee.
 
 ```sol
 function adminMint(
