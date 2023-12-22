@@ -190,7 +190,7 @@ function createEdition(
 
 Event Emitted when a drop is created from the factory:
 
-```
+```sol
 event CreatedDrop(address indexed creator, address indexed editionContractAddress, uint256 editionSize)
 ```
 
@@ -200,7 +200,7 @@ This is emitted by the `NFTCreatorV1` factory contract.
 
 Event emitted with Sales Configuration Setup:
 
-```
+```sol
 event SalesConfigChanged(address indexed changedBy);
 ```
 
@@ -229,7 +229,7 @@ event IERC721Drop.Sale(
 
 and if salesComment is not unset (in solidity, is not an empty string) `''`:
 
-```
+```sol
 event IERC721Drop.MintComment(
     address sender, // Address sending the mint
     address tokenContract, // Current NFT contract
