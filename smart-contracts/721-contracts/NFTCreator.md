@@ -1,0 +1,83 @@
+---
+description: A factory that deploys new NFT contracts.
+---
+
+# NFTCreator
+
+The factory references an `implementation` contract and clones it to give it it's own unique address.
+
+## Edition vs Drop 
+This contract can be used to create either `Editions` or `Drops`.
+
+- `Editions`: All the NFTs share the same media asset.
+- `Drops`: All the NFTs have individual pieces of media.
+
+Platforms have the ability to earn some of the protocol rewards for helping creators deploy their smart contracts.
+
+## Global Variables
+
+- `implementation`: An NFT contract used for cloning.
+- `editionMetadataRenderer`: A contract for rendering editions metadata.
+- `dropMetadataRenderer`: A contract for rendering drops.
+
+## Creating an NFT Contract
+
+### createEdition
+
+Creates a new edition contract with an address.
+Note, not all of these fields can be changed after creating the contract.
+
+- `name`: Name of the edition contract (cannot be changed)
+- `symbol`: Symbol of the edition contract (cannot be changed)
+- `defaultAdmin`: Default admin address (contract sets the owner to this address by default)
+- `editionSize`: Total size of the edition (number of possible editions)
+- `royaltyBPS`: BPS amount of royalty (cannot be changed)
+- `fundsRecipient`: Recipient for sales and royalties
+- `description`: Metadata: Description of the edition entry
+- `animationURI`: Metadata: Animation url (optional) of the edition entry
+- `imageURI`: Metadata: Image url (semi-required) of the edition entry
+
+```
+function createEdition(
+    string memory name,
+    string memory symbol,
+    uint64 editionSize,
+    uint16 royaltyBPS,
+    address payable fundsRecipient,
+    address defaultAdmin,
+    IERC721Drop.SalesConfiguration memory saleConfig,
+    string memory description,
+    string memory animationURI,
+    string memory imageURI,
+    address createReferral
+) 
+```
+
+### createDrop
+
+Creates a new drop contract with a deterministic address.
+Note, not all of these fields can be changed after creating the contract.
+- `name`: Name for new contract (cannot be changed)
+- `symbol`: Symbol for new contract (cannot be changed)
+- `defaultAdmin`: Default admin address (contract sets the owner to this address by default)
+- `editionSize`: The max size of the media contract allowed
+- `royaltyBPS`: BPS for on-chain royalties (cannot be changed)
+- `fundsRecipient`: Recipient for sales and royalties
+- `metadataURIBase`: URI Base for metadata
+- `metadataContractURI`: URI for [contract metadata](https://docs.opensea.io/docs/contract-level-metadata)
+
+```
+function createDrop(
+    string memory name,
+    string memory symbol,
+    address defaultAdmin,
+    uint64 editionSize,
+    uint16 royaltyBPS,
+    address payable fundsRecipient,
+    IERC721Drop.SalesConfiguration memory saleConfig,
+    string memory metadataURIBase,
+    string memory metadataContractURI
+) 
+```
+
+
