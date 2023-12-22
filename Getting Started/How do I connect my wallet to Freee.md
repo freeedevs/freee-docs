@@ -6,7 +6,7 @@ description: A guide on how to connect your wallet to Freee.
 
 Connecting your wallet.
 
-To connect your account on Freee, you must have a crypto wallet ready to connect; Freee currently supports wallets such as [Metamask](https://metamask.io/), [Rainbow](https://rainbow.me/), [Coinbase Wallet](https://wallet.coinbase.com/) and any [WalletConnect-compatible wallet](https://registry.walletconnect.org/wallets).
+To connect your account on Freee, you must have a crypto wallet ready to connect; Freee currently supports wallets such as [Metamask](https://metamask.io/), [Rainbow](https://rainbow.me/), [Coinbase Wallet](https://wallet.coinbase.com/) and any [WalletConnect-compatible wallet](https://explorer.walletconnect.com/?type=wallet).
 
 Once your wallet is ready to connect, you can do this via the [Freee homepage](https://freee.xyz/).
 
