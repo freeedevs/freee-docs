@@ -37,7 +37,7 @@ Note, not all of these fields can be changed after creating the contract.
 - `animationURI`: Metadata: Animation url (optional) of the edition entry
 - `imageURI`: Metadata: Image url (semi-required) of the edition entry
 
-```
+```sol
 function createEdition(
     string memory name,
     string memory symbol,
@@ -66,7 +66,7 @@ Note, not all of these fields can be changed after creating the contract.
 - `metadataURIBase`: URI Base for metadata
 - `metadataContractURI`: URI for [contract metadata](https://docs.opensea.io/docs/contract-level-metadata)
 
-```
+```sol
 function createDrop(
     string memory name,
     string memory symbol,

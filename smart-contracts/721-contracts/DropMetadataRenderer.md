@@ -21,7 +21,7 @@ View the list of deployed contract addresses [here](../contract-addresses.md).
 
 Updates the baseURI and contractURI.
 
-```
+```sol
 function updateMetadataBase(
     address target,
     string memory baseUri,
@@ -33,7 +33,7 @@ function updateMetadataBase(
 
 Updates the metadata base URI, extension, contract URI and freezing details.
 
-```
+```sol
 function updateMetadataBaseWithDetails(
     address target,
     string memory metadataBase,
@@ -47,6 +47,6 @@ function updateMetadataBaseWithDetails(
 
 Updates the provenance hash stored in the contract. 
 
-```
+```sol
 function updateProvenanceHash(address target, bytes32 provenanceHash)
 ```

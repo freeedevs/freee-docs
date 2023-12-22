@@ -21,7 +21,7 @@ Updates the media asset for the edition.
 
 The `imageURI` is the resource for the main piece of media and `animationURI` is used for the thumbnail if a video. 
 
-```
+```sol
 function updateMediaURIs(
     address target,
     string memory imageURI,
@@ -36,6 +36,6 @@ Updates the description for the edition.
 - `target`: The contract address to update the description for
 - `newDescription`: The new description
 
-```
+```sol
 function updateDescription(address target, string memory newDescription)
 ```

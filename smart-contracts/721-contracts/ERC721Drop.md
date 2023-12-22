@@ -32,7 +32,7 @@ Note that `presaleMerkleRoot` can be set to `0x000000000000000000000000000000000
 Current values can be viewed by calling `salesConfig` on the contract and it can be updated by calling `setSalesConfig` with the new parameters.
 
 Learn more about creating an allow list [here.](./ERC721Drop#creating-a-presale-allowlist)
-```
+```sol
 function setSaleConfiguration(
     uint104 publicSalePrice,
     uint32 maxSalePurchasePerAddress,
@@ -56,7 +56,7 @@ However, once the period is over then no one can publicly mint anymore.
 
 Note, `finalizeOpenEdition` **must be called by an admin** once the minting window has closed to make sure that it's not possible to mint any more NFTs from the contract.
 
-```
+```sol
 function finalizeOpenEdition()
 ```
 
@@ -65,7 +65,7 @@ function finalizeOpenEdition()
 #### adminMint
 An admin can mint a certain number of the NFTs to an address without having to pay the base price or protocol rewards.
 
-```
+```sol
 function adminMint(address recipient, uint256 quantity)
 ```
 
@@ -73,14 +73,14 @@ function adminMint(address recipient, uint256 quantity)
 An admin can mint a single NFT to multiple different addresses in a single transaction without having to pay the base price.
 The function takes in an array of addresses to mint to.
 
-```
+```sol
 function adminMintAirdrop(address[] calldata recipients)
 ```
 
 #### mint
 A public minting function that can be called by anyone once the public sale has started. 
 
-```
+```sol
 function mint(
     address recipient, 
     uint256 quantity, 
@@ -93,7 +93,7 @@ function mint(
 A private sale function for allowlist minting that requires a merkle proof.
 Check out the section [here](./ERC721Drop#creating-a-presale-allow-list) for creating an allowlist.  
 
-```
+```sol
 function purchasePresale(
     uint256 quantity,
     uint256 maxQuantity,
@@ -150,47 +150,54 @@ Note, admin roles can only be assigned and revoked by default admins.
 
 `isAdmin` function checks if an address is an admin or not. 
 
-```
+```sol
 function isAdmin(address user)
 ```
 
 `hasRole` is more granular and checks if an address has a specific admin role.
-```
+
+```sol
 function hasRole(bytes32 role, address account)
 ```
 
 #### Granting a Role
 
 `grantRole` allows for a default admin to add an admin. 
-```
+
+```sol
 function grantRole(bytes32 role, address account)
 ```
 
 #### Revoking a Role
 
 `revokeRole` allows for a default admin to remove an admin. 
-```
+
+```sol
 function revokeRole(bytes32 role, address account)
 ```
 
 #### Changing the Owner
 
 `setOwner` sets the owner of the contract to a new address.
-```
+
+```sol
 function setOwner(address newOwner)
 ```
 
 ## Withdrawing Funds
 Once minting has concluded, the funds can be moved out of the contract by calling the `withdraw` function.
+
 Withdraw can be called by a default admin, the `fundsRecipient` address, a sales manager role.
-```
+
+```sol
 function withdraw()
 ```
 
 This will push the funds to the `fundsRecipient` address, which is set to the default admin when the contract was initialized.
+
 However, it can be updated to any address by calling the `setFundsRecipient` function.
 
-```
+```sol
 function setFundsRecipient(address payable newRecipientAddress)
 ```
 
@@ -214,12 +221,12 @@ All upgrades are opt-in and can only be initiated by a default admin.
 
 `upgradeTo` allows the NFT contract to upgrade to a new implementation contract to make delegate calls.
 
-```
+```sol
 function upgradeTo(address newImplementation)
 ```
 
 Similar to `upgradeTo`, `upgradeToAndCall` allows a new implementation contract to be specified, but it also allows for call data to be passed in when updating. 
 
-```
+```sol
 function upgradeToAndCall(address newImplementation, bytes data)
 ```
