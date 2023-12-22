@@ -33,6 +33,5 @@
   * [Why can't I mint from a collection?](<FREEE FAQs/Why can't I mint from a collection.md>)
   * [Why can't I see my minted NFT(s)?](<FREEE FAQs/Why can't I see my minted NFT(s).md>)
   * [Why did my mint transaction fail?](<FREEE FAQs/Why did my mint transaction fail.md>)
-* [Freee  Fees](<FREEE Mint & Collect Fees.md>)
+* [Freee Fees](<FREEE Mint & Collect Fees.md>)
 * [Legal](Legal.md)
-* [to-list](to-list.md)
