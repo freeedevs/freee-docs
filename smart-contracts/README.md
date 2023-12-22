@@ -26,8 +26,8 @@ In addition, these contracts **provide built-in sales mechanics**, making it eas
 
 ## 1155 Contracts
 
-[The Summary Of 1155 Contracts](<./1155-contracts/>)
+[The Summary Of 1155 Contracts](<./1155-contracts/README.md>)
 
 ## 721 Contracts
 
-[The Summary Of 721 contracts](<./721-contracts/>)
+[The Summary Of 721 contracts](<./721-contracts/README.md>)
