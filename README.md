@@ -12,6 +12,10 @@ description: Advice and answers from the Freee Team
 
 [Learn how to create and manage your collections](<Freee Create/>)
 
+## 3. Smart Contracts
+
+[All about the freee contracts](</smart-contracts/>)
+
 ## 3. Freee Fee
 
 [Learn more about our fees and how they work](<FREEE Mint & Collect Fees.md>)
