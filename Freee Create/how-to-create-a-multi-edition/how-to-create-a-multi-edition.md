@@ -10,7 +10,7 @@ There are three components to a Freee collection: the collection contract as a w
 
 ## Want to test out your collection?
 
-We recommend using our [testnet](how-to-create-a-multi-edition.md) before deploying any collection to the mainnet. Testing on the testnet provides a risk-free environment where you can ensure that your collection functions correctly and identify any potential issues before they occur on the mainnet, saving your time and ETH.
+We recommend using our [testnet](https://testnet.freee.xyz) before deploying any collection to the mainnet. Testing on the testnet provides a risk-free environment where you can ensure that your collection functions correctly and identify any potential issues before they occur on the mainnet, saving your time and ETH.
 
 ***
 
@@ -18,7 +18,7 @@ We recommend using our [testnet](how-to-create-a-multi-edition.md) before deploy
 
 At Freee, our mission is to make it as easy and enjoyable as possible for creators to bring their imagination and creativity onchain. It's now even easier to realize value for your work on Freee with just an Ethereum wallet!
 
-1. Connect your wallet to [Freee.xyz](https://mvp.freee.xyz/)
+1. Connect your wallet to [Freee.xyz](https://freee.xyz/)
 2. Click the **“Create”** Button in the top right corner to begin creating your collection.
 3. Select **“Multi-Edition”** from the drop-down menu.
 

@@ -10,7 +10,7 @@ A guide on how to mint from Freee.
 
 There are multiple places that you can mint on FREEE.
 
-1. The first is to explore our [Home](https://mvp.freee.xyz/), [For You](https://mvp.freee.xyz/) and [Trending](https://mvp.freee.xyz/trending) feeds, where you can mint quickly and directly from collections. From here, you can quickly select the number of NFTs you want to mint or enter a custom amount.
+1. The first is to explore our [Home](https://freee.xyz/), [For You](https://freee.xyz/) and [Trending](https://freee.xyz/trending) feeds, where you can mint quickly and directly from collections. From here, you can quickly select the number of NFTs you want to mint or enter a custom amount.
 2. You can also navigate through to a collections mint page either by clicking through our feeds or via a direct link that could be found on a creator's website, from a Twitter post or sent to you directly.
 
 ## How do I mint an NFT on FREEE?

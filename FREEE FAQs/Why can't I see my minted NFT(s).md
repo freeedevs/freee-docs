@@ -10,7 +10,7 @@ Using these explorers, you can view your minting transaction OR select the "**To
 
 ## Where can I view my minted NFTs?
 
-You can view your minted NFTs on your [profile](https://mvp.freee.xyz/manage). 
+You can view your minted NFTs on your [profile](https://freee.xyz/manage). 
 
 ## "I still can't see the NFT that I have minted"
 

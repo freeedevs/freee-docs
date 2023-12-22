@@ -21,7 +21,7 @@ To create an allowlist, your edition must be onchain (minted from). You CANNOT c
 
 ![](../../imgs/multi-manage\_6.jpg)
 
-1. To begin, you'll need to access your edition settings, which can be done by navigating through your [Dashboard](https://mvp.freee.xyz/manage).
+1. To begin, you'll need to access your edition settings, which can be done by navigating through your [Dashboard](https://freee.xyz/manage).
 2. Once into your edition settings, follow through the top tab that says "**Allowlist**".
 3. Select "Add Items"
 4. There are two ways to upload your allowlist for your collection.

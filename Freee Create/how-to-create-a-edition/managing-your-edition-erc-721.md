@@ -6,7 +6,7 @@ description: Guide to managing your ERC-721 edition.
 
 The ways that you can find you can manage your single-edition and access your collection's settings:
 
-Navigate to your Dashboard and select the collection you want to manage. A link to that page can be found [here](https://mvp.freee.xyz/manage).
+Navigate to your Dashboard and select the collection you want to manage. A link to that page can be found [here](https://freee.xyz/manage).
 
 ![](../../imgs/drop-manage\_1.jpg)
 

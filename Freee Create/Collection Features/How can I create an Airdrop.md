@@ -10,7 +10,7 @@ To create an airdrop, your edition must be onchain (minted from). You CANNOT cre
 
 ![](../../imgs/multi-manage\_5.jpg)
 
-1. First, navigate to your [Dashboard](https://mvp.freee.xyz/manage) and select your collection. ​
+1. First, navigate to your [Dashboard](https://freee.xyz/manage) and select your collection. ​
 2. Choose the edition that you would like to airdrop NFTs from.
 3. Navigate to the "**Airdrop**" tab.
 4.  Enter all the addresses or ENS Domains that you would like to airdrop an NFT to.

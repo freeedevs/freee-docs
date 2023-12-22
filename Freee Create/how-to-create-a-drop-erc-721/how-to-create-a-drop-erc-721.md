@@ -8,7 +8,7 @@ Freee provides an easy-to-use, no-code-required solution to mint, drop and manag
 
 ## Want to test out your collection?
 
-We recommend using our [testnet](how-to-create-a-drop-erc-721.md) before setting your collection live. Testing on the testnet provides a risk-free environment where you can ensure that your collection functions correctly and identify any potential issues before they occur on the mainnet, saving your time and ETH.
+We recommend using our [testnet](https://testnet.freee.xyz) before setting your collection live. Testing on the testnet provides a risk-free environment where you can ensure that your collection functions correctly and identify any potential issues before they occur on the mainnet, saving your time and ETH.
 
 ***
 
@@ -18,8 +18,8 @@ At Freee, we aim to make it as easy and enjoyable as possible for creators to br
 
 ![](../../imgs/drop-create\_1.gif)
 
-1. Connect your wallet to [freee.xyz](https://mvp.freee.xyz)
-2. Follow this link here: [https://mvp.freee.xyz/create/drop](https://mvp.freee.xyz/create/drop)
+1. Connect your wallet to [freee.xyz](https://freee.xyz)
+2. Follow this link here: [https://freee.xyz/create/drop](https://freee.xyz/create/drop)
 
 ***
 

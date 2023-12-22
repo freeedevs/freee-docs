@@ -8,7 +8,7 @@ description: A guide to managing your collection and it's editions.
 
 To access the "_Manage Collection_" section for your collection, you'll first need to navigate to your **Manage collections** and select the collection you want to manage.
 
-\*\*_A link to your manage page can also be found_ [_here_](https://mvp.freee.xyz/manage)_._
+\*\*_A link to your manage page can also be found_ [_here_](https://freee.xyz/manage)_._
 
 ![](../../imgs/multi-manage\_1.gif)
 
