@@ -7,8 +7,8 @@
 ## Connect your wallet on mobile
 
 1. Select the 3 dot icon in the top right-hand corner
-2. Select the “Connect Wallet” button.
-3. If you do not have a wallet installed on your mobile device, select “Get a Wallet” for links to supported wallet apps.
+2. Select the "Connect Wallet" button.
+3. If you do not have a wallet installed on your mobile device, select "Get a Wallet" for links to supported wallet apps.
 4. Otherwise, you can select your wallet app and continue.
 
 ![](../../freee-create/create-faqs)

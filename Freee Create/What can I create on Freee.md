@@ -8,31 +8,34 @@ Freee gives you the tools to create the collections you want to create in the wa
 
 What types of collections can you create? We have Three different collection types:
 
-[1. Multi-Edition (ERC-1155)](<What can I create on Freee.md#1-multi-edition-erc-1155>)
+[1. Single-Edition (ERC-721)](<What can I create on Freee.md#3-edition-erc-721>)
 
 [2. Drops Collection (ERC-721)](<What can I create on Freee.md#2-drops-collection-erc-721>)
 
-[3. Edition (ERC-721)](<What can I create on Freee.md#3-edition-erc-721>)
+[3. Multi-Edition (ERC-1155)](<What can I create on Freee.md#1-multi-edition-erc-1155>)
 
-## 1. Multi-Edition (ERC-1155)
+## 1. Single-Edition (ERC-721)
 
-**Multi-Edition** collections are a flexible contract for multiple editions. Each edition created will have its own mint page. Check out an example collection [here](<What can I create on Freee.md>)
+![](../imgs/what-can-creat\_2.png)
 
-![](../imgs/what-can-creat\_1.png)
+A Edition is a dedicated contract and mint page for a collection of same NFTs. Check out an example collection [here](<What can I create on Freee.md>).
 
-_What are the features of a Collection?_
+_What are the features of a Edition?_
 
-* Create for free
-* Open and limited editions
-* Supported media types: Images, Video, HTML, PDF
+* Unique artwork for each NFT
+* Support media types: Image, Video, Audio
 * Attributes
 * Updatable metadata
-* Auto Reserve
+* Royalties
 * Public Mint
 * Mint limit per address
+* Allowlist mint
 * Airdrop
+* Admin mint
+* iFrame embed
 * Custom payout address
-* Treasury
+* Treasury Additional admins
+* Transfer ownership
 
 ## 2. Drops Collection (ERC-721)
 
@@ -57,25 +60,22 @@ _What are the features of a Drop?_
 * Treasury Additional admins
 * Transfer ownership
 
-## 3. Edition (ERC-721)
+## 3. Multi-Edition (ERC-1155)
 
-![](../imgs/what-can-creat\_2.png)
+**Multi-Edition** collections are a flexible contract for multiple editions. Each edition created will have its own mint page. Check out an example collection [here](<What can I create on Freee.md>)
 
-A Edition is a dedicated contract and mint page for a collection of same NFTs. Check out an example collection [here](<What can I create on Freee.md>).
+![](../imgs/what-can-creat\_1.png)
 
-_What are the features of a Edition?_
+_What are the features of a Multi-Edition?_
 
-* Unique artwork for each NFT
-* Support media types: Image, Video, Audio
+* Create for free
+* Open and limited editions
+* Supported media types: Images, Video, HTML, PDF
 * Attributes
 * Updatable metadata
-* Royalties
+* Auto Reserve
 * Public Mint
 * Mint limit per address
-* Allowlist mint
 * Airdrop
-* Admin mint
-* iFrame embed
 * Custom payout address
-* Treasury Additional admins
-* Transfer ownership
+* Treasury

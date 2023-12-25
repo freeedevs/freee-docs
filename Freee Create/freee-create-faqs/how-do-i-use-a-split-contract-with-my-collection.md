@@ -8,7 +8,7 @@ When creating your collection, you are able to use a split contract as your payo
 
 3. Input your percentage splits between the addresses, ensuring they all equal up to 100%.
 
-4. Copy the contract address to your clipboard before finalising your information and selecting “Create Split”. This will prompt transaction approval and finalise the creation of your split contract.
+4. Copy the contract address to your clipboard before finalising your information and selecting "Create Split". This will prompt transaction approval and finalise the creation of your split contract.
 
 5. If you are currently creating a Drop or Edition, then you are able to update the address during this process by pasting the split contract underneath the payout address section. If you want to update the payout address on an existing collection, navigate your collection settings (manage collection > settings > payout address) and update the payout address with your split contract address.
 

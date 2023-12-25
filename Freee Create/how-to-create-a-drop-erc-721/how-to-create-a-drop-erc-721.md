@@ -27,18 +27,18 @@ At Freee, we aim to make it as easy and enjoyable as possible for creators to br
 
 There are two ways that you can upload your drop to Freee:
 
-1. The first is through “**Upload from computer**”, which will prompt you to upload an artwork folder containing all your artwork and metadata.
-2. The second is to “**Import self-hosted metadata**” upload using your IPFS links.
+1. The first is through "**Upload from computer**", which will prompt you to upload an artwork folder containing all your artwork and metadata.
+2. The second is to "**Import self-hosted metadata**" upload using your IPFS links.
 
 ***
 
 ### 1. Upload from computer
 
-To upload your artwork and metadata directly onto Freee, ensure that you have selected the “Upload from computer” tab and follow the instructions below:
+To upload your artwork and metadata directly onto Freee, ensure that you have selected the "Upload from computer" tab and follow the instructions below:
 
 ![](../../imgs/drop-create\_2.jpg)
 
-Under the title “Artwork Folder”, click **“Continue”** and select your desired artwork folder. For best practice, download our example folder **OR** follow our in-depth guide here:
+Under the title "Media & metadata folder", click **"Replace"** and select your desired artwork folder. For best practice, download our example folder **OR** follow our in-depth guide here:
 
 It is crucial to make sure that your folder is formatted correctly and has the following components:
 
@@ -60,7 +60,7 @@ or
 
 ![](../../imgs/drop-create\_4.png)
 
-Once your artwork folder has been successfully uploaded, select **“Continue”** at the bottom of the page.
+Once your artwork folder has been successfully uploaded, select **"Continue"** at the bottom of the page.
 
 ***
 

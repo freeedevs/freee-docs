@@ -19,8 +19,8 @@ At Freee, our mission is to make it as easy and enjoyable as possible for creato
 ![](../../imgs/singl-edition\_1.gif)
 
 1. Connect your wallet to [Freee.xyz](https://freee.xyz/)
-2. Click the **“Create”** Button in the top right corner to begin creating your collection.
-3. Select **“Edition”** from the drop-down menu.
+2. Click the **"Create"** Button in the top right corner to begin creating your collection.
+3. Select **"Edition"** from the drop-down menu.
 
 ***
 

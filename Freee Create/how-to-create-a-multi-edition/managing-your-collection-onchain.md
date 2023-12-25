@@ -35,7 +35,7 @@ While viewing the overview page of your collection, you can **Add/Modify your Tw
 
 #### 2.1.2 Manage your Collection Settings
 
-To update your collection, navigate to the **“Settings”** tab. From here, you can update your collection **name**, **description**, **thumbnail** and **Admins**.
+To update your collection, navigate to the **"Settings"** tab. From here, you can update your collection **name**, **description**, **thumbnail** and **Admins**.
 
 ![](../../imgs/multi-manage\_3.jpg)
 

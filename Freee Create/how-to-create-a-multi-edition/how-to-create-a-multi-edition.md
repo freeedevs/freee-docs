@@ -19,8 +19,8 @@ We recommend using our [testnet](https://testnet.freee.xyz) before deploying any
 At Freee, our mission is to make it as easy and enjoyable as possible for creators to bring their imagination and creativity onchain. It's now even easier to realize value for your work on Freee with just an Ethereum wallet!
 
 1. Connect your wallet to [Freee.xyz](https://freee.xyz/)
-2. Click the **“Create”** Button in the top right corner to begin creating your collection.
-3. Select **“Multi-Edition”** from the drop-down menu.
+2. Click the **"Create"** Button in the top right corner to begin creating your collection.
+3. Select **"Multi-Edition"** from the drop-down menu.
 
 ![](../../imgs/multi-edition\_1.gif)
 
@@ -34,10 +34,7 @@ At Freee, our mission is to make it as easy and enjoyable as possible for creato
 
 Upload the media files for your Edition. These files can be a video, gif, audio, PDF or image file type.
 
-1. **There is a max file size of 2GB**. \*_The larger the file size, the longer it can take for your file to upload_
-2. **Want to upload multiple media files at once?** Drag and drop more files or select **"+ Add more"**. A couple of things to consider:
-   1. There is a **maximum limit of 25 files** in a single batch.
-   2. All tokens uploaded in a single batch will have the same settings and mint configuration.
+**There is a max file size of 2GB**. \*_The larger the file size, the longer it can take for your file to upload_
 
 ***
 
@@ -48,8 +45,8 @@ Upload the media files for your Edition. These files can be a video, gif, audio,
 1. Enter the **name** of your edition. \*_Remember this will only show on this individual edition_
 2. Enter a **description** for your edition. \*_Remember this will only show on this individual edition_
 3. Choose **Edition Size**: You can choose between
-   1. “Open” does not have a fixed number of editions, and the supply is unlimited.
-   2. “Fixed” has a fixed number of tokens that can be minted.
+   1. "Open" does not have a fixed number of editions, and the supply is unlimited.
+   2. "Fixed" has a fixed number of tokens that can be minted.
 4.  Enter a percentage amount for your resale royalty.
 
     \*This must be a whole number
@@ -69,8 +66,6 @@ Upload the media files for your Edition. These files can be a video, gif, audio,
    1. Enter the title for your new Edition Collection.
    2. Add a description for your collection. \*\*_This will only show on the collection view and is separate from your individual edition's report._
    3. Add your collection thumbnail; this can be an image or a gif.
-
-\*\***REMINDER: All tokens uploaded in one batch will have the same settings and mint configuration.**
 
 ***
 

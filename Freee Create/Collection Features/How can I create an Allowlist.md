@@ -41,7 +41,7 @@ If you are adding a small number of wallet addresses (\~20) to your allowlist, w
 ![](../../imgs/allowlist\_1.gif)
 
 1. Select "Add Items"
-2. Enter the **Wallet Addresses or ENS** Domains of the accounts for your allowlist. ​
+2. Enter the **Wallet Addresses** of the accounts for your allowlist. ​
 3. Set the **price** for ALL these accounts.
    1. If you would like to have differing prices for different addresses, then you will need to do the manual entry process multiple times. ​
 4. Set a **mint limit** for these addresses. ​

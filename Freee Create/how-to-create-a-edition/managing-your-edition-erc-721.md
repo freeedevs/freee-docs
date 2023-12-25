@@ -22,8 +22,6 @@ You can also update the metadata of your collections, including the description,
 
 ![](../../imgs/single-edition-manage\_3.png)
 
-* If you are uploading a small SVG file, you will be given the option to store it onchain. Storing SVG data onchain ensures its permanence as a part of the smart contract. The bigger the file, the higher the cost. This is only recommended for files less than 50KB, and the file cannot have any external links.
-
 Once you are satisfied with the changes you have made
 
 * Click **update** under the appropriate section
