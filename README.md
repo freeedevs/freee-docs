@@ -14,7 +14,7 @@ description: Advice and answers from the Freee Team
 
 ## 3. Smart Contracts
 
-[All about the freee contracts](</smart-contracts/>)
+[All about the freee contracts](smart-contracts/)
 
 ## 3. Freee Fee
 
@@ -26,4 +26,4 @@ description: Advice and answers from the Freee Team
 
 ## 5. Legal
 
-[Freee Terms of Service and Privacy Policy](Legal.md)
+[Freee Terms of Service and Privacy Policy](legal/)

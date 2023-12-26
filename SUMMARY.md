@@ -47,4 +47,5 @@
   * [Why can't I see my minted NFT(s)?](<FREEE FAQs/Why can't I see my minted NFT(s).md>)
   * [Why did my mint transaction fail?](<FREEE FAQs/Why did my mint transaction fail.md>)
 * [Freee Fees](<FREEE Mint & Collect Fees.md>)
-* [Legal](Legal.md)
+* [Legal](legal/README.md)
+  * [Freee Privacy Policy](legal/freee-privacy-policy.md)
