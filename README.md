@@ -16,14 +16,14 @@ description: Advice and answers from the Freee Team
 
 [All about the freee contracts](smart-contracts/)
 
-## 3. Freee Fee
+## 4. Freee Fee
 
 [Learn more about our fees and how they work](<FREEE Mint & Collect Fees.md>)
 
-## 4. Freee FAQs
+## 5. Freee FAQs
 
 [Answers to commonly asked questions](<FREEE FAQs/>)
 
-## 5. Legal
+## 6. Legal
 
 [Freee Terms of Service and Privacy Policy](legal/)
