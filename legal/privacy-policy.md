@@ -2,7 +2,7 @@
 description: Freee Privacy Policy
 ---
 
-# Freee Privacy Policy
+# Privacy Policy
 
 Last updated: December 26, 2023
 
@@ -143,7 +143,7 @@ We may process or share your personal information based on the following legal b
 * Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).
 * Vital Interests: We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.
 
-### Our legal bases for processing the personal information described in this Privacy Policy are described in the table below. <a href="#h_e3beb0c1b2" id="h_e3beb0c1b2"></a>
+**Our legal bases for processing the personal information described in this Privacy Policy are described in the table below.**
 
 | Purpose                                 | Category(ies) of personal information involved                                                                                                                                                                                                  | Why do we do this                                                                                                                                                                                                                                                                                                                                    | Our legal basis for this use of data                                                                                                                                                                                                                                             |
 | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
