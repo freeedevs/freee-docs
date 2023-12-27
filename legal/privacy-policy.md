@@ -6,7 +6,7 @@ description: Freee Privacy Policy
 
 Last updated: December 26, 2023
 
-Thank you for visiting freee.xyz (“Site”) the website of <mark style="color:red;">Zora Labs, Inc.</mark> (“Company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at [app@freee.xyz](mailto:app@freee.xyz)
+Thank you for visiting freee.xyz (“Site”) the website of Freee Labs (“Company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at [app@freee.xyz](mailto:app@freee.xyz)
 
 When you visit our Site and use our platform or developer tools (collectively the “Services”), you trust us with your personal information. We take your privacy very seriously. In this Privacy Policy, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, please discontinue your use of our services.
 
@@ -133,7 +133,7 @@ We do not knowingly solicit data from or market to children under 18 years of ag
 
 _In short: We comply with applicable European data protection legislation and only process your personal information if we have an appropriate legal basis to do so._
 
-We endeavor not to collect or to minimize collection of our user’s individual personal information. However, to the extent we collect personal information from European data protection data subjects, <mark style="background-color:red;">公司名称</mark> is the controller of your information covered by this Privacy Policy for purposes of European data protection legislation.
+We endeavor not to collect or to minimize collection of our user’s individual personal information. However, to the extent we collect personal information from European data protection data subjects, Freee Labs is the controller of your information covered by this Privacy Policy for purposes of European data protection legislation.
 
 We may process or share your personal information based on the following legal basis:
 

@@ -6,7 +6,7 @@ description: 公司名称 Terms of Service
 
 Last updated: December 27, 2023
 
-These Terms of Service (these "Terms") constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”), and <mark style="background-color:red;">公司名称</mark>(“Freee,” “we,” or “us,” and together with “you,” the “Parties” and each individually, a “Party”), concerning your access to and use of the [freee.xyz](https://freee.xyz) websites, along with our related websites, hosted applications, mobile or other downloadable applications, as well as any other technology and services provided by us (collectively, the “Services”).&#x20;
+These Terms of Service (these "Terms") constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”), and Freee Labs(“Freee,” “we,” or “us,” and together with “you,” the “Parties” and each individually, a “Party”), concerning your access to and use of the [freee.xyz](https://freee.xyz) websites, along with our related websites, hosted applications, mobile or other downloadable applications, as well as any other technology and services provided by us (collectively, the “Services”).&#x20;
 
 **PLEASE READ THE FOLLOWING TERMS CAREFULLY:**
 
