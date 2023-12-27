@@ -48,4 +48,5 @@
   * [Why did my mint transaction fail?](<FREEE FAQs/Why did my mint transaction fail.md>)
 * [Freee Fees](<FREEE Mint & Collect Fees.md>)
 * [Legal](legal/README.md)
-  * [Freee Privacy Policy](legal/freee-privacy-policy.md)
+  * [Privacy Policy](legal/privacy-policy.md)
+  * [Terms of Service](legal/terms-of-service.md)
