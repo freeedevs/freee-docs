@@ -10,6 +10,6 @@ To begin, you'll need to access the "Manage collection" section.
 
 ![](../../imgs/withdraw_1.jpg)
 
-4. To withdraw from the treasury, click "**Withdraw**"
+3. To withdraw from the treasury, click "**Withdraw**"
 
 This will then prompt a wallet transaction. Once this transaction is completed, you will receive the ETH in your wallet.
