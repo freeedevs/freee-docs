@@ -18,7 +18,7 @@ To successfully upload your artwork folder, you must ensure that the contents ha
 
 ## In-depth Outline
 
-Follow below to further understand the components of your "Artwork Folder’"
+Follow below to further understand the components of your "Artwork Folder"
 
 1. Inside your **media** folder, there must be the correct number of artworks you intend to upload as part of your drop. It is essential to ensure you have placed the correct number of artworks in your folder because once you have created your collection, the number of artworks **cannot be changed**.
 2. These files must be formatted correctly and numbered 1, 2, 3 and so on. Ensure there are no hash marks in the filenames

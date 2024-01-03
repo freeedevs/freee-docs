@@ -24,4 +24,4 @@ Learn more about how Gas works here: [Gas (Ethereum)](https://ethereum.org/en/de
 
 ## How to track gas prices?
 
-When the ETH network is experiencing a high volume of transactions the gas fee will be higher to keep up with the demand. If you find that gas prices are too high you can track trends and prices here: https://ethereumprice.org/gas/
+When the ETH network is experiencing a high volume of transactions the gas fee will be higher to keep up with the demand. If you find that gas prices are too high you can track trends and prices here: [https://ethereumprice.org/gas/](https://ethereumprice.org/gas/)

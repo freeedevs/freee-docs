@@ -47,7 +47,6 @@ It is crucial to make sure that your folder is formatted correctly and has the f
 3. Check your file type; the following are supported for your drop.
    * Image: JPG, PNG, GIF, SVG
    * File: PDF
-   * Onchain image: SVG
    * Video: MP4 (H.264 encoding is recommended)
    * Audio: MP3
 4. Optional - **ONE** .csv file containing your collection’s metadata. An in-depth guide to formatting your .csv can be found here.

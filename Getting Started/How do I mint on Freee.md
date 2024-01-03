@@ -4,9 +4,7 @@ description: A guide on how to mint from Freee.
 
 # How do I mint on Freee?
 
-A guide on how to mint from Freee.
-
-## Where do I find NFTs to mint on Freee?
+Where do I find NFTs to mint on Freee?
 
 There are multiple places that you can mint on FREEE.
 

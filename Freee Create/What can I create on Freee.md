@@ -8,11 +8,11 @@ Freee gives you the tools to create the collections you want to create in the wa
 
 What types of collections can you create? We have Three different collection types:
 
-1\. [Single-Edition (ERC-721)](<What can I create on Freee.md#1.-single-edition-erc-721>)
+1\. [Single-Edition (ERC-721)](<What can I create on Freee.md#id-1.-single-edition-erc-721>)
 
-2\. [Drops Collection (ERC-721)](<What can I create on Freee.md#2.-drops-collection-erc-721>)
+2\. [Drops Collection (ERC-721)](<What can I create on Freee.md#id-2.-drops-collection-erc-721>)
 
-3.[ Multi-Edition (ERC-1155)](<What can I create on Freee.md#3.-multi-edition-erc-1155>)
+3.[ Multi-Edition (ERC-1155)](<What can I create on Freee.md#id-3.-multi-edition-erc-1155>)
 
 ## 1. Single-Edition (ERC-721)
 

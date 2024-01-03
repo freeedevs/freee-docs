@@ -18,4 +18,4 @@ To create an airdrop, your edition must be onchain (minted from). You CANNOT cre
     \*\*Only one token can be sent per address at a time.
 5. Select "**Airdrop**" and confirm the transaction in your wallet pop-up.
 
-🎉Your NFTs have been airdropped! 🎉 If you have any issues with this process, please contact our Customer Support team via our chatbot or email us [here](<How can I create an Airdrop.md>).
+🎉Your NFTs have been airdropped! 🎉 If you have any issues with this process, please contact our Customer Support team via email us.

@@ -12,24 +12,6 @@ Navigate to the "Manage Collections" page and select the collection you want to 
 
 ![](../../imgs/drop-manage\_1.jpg)
 
-## Updating your Metadata
-
-In the settings of your drop, you can update certain parts of metadata to your collection. You can change the artwork of your NFTs, their name, description and any of their attributes. You **cannot** change the number of initial NFTs in your collection.
-
-* To update your metadata select the "**NFTs**" tab in your collection settings. This will bring you to a view of all your tokens.
-
-![](../../imgs/drop-manage\_2.jpg)
-
-* Click "**Update metadata**" to bring up the artwork setup tab.
-
-![](../../freee-create/drop)
-
-* You can upload your updated drop through "**Upload from computer**" or "**Import self-hosted metadata**"
-* Before selecting "**Update**", you must ensure that the **number** of NFTs in your artwork file or links has **NOT** changed from when you initially created your drop.
-* Click "**update**" to finalize the changes to your metadata.
-
-\*_Please note that anyone classified as an **ADMIN** can update and change this data_ \*
-
 ***
 
 ## Updating Collection Info
