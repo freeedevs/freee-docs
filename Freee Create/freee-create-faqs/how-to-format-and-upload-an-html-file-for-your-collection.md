@@ -41,4 +41,4 @@ Once your HTML file and other necessary files are ready to go:
    1. Do **NOT** zip a folder containing the files; only zip the files themselves.
 2. Upload the zipped file to your collection
 3. Now you can fill out all your collection details and settings. To learn more about how to create your collection, check out our guides below:
-   1. [How to create a E](../how-to-create-a-edition/how-to-create-a-edition.md)[dition](../how-to-create-a-edition/how-to-create-a-edition.md)
+   1. [How to create a Edition](../how-to-create-a-edition/how-to-create-a-edition.md)

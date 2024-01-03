@@ -15,7 +15,7 @@ Once your wallet is ready to connect, you can do this via the [Freee homepage](h
 
 ![](../imgs/connect-wallet\_1.gif)
 
-1. Follow the instructions within your connected wallet.
+3. Follow the instructions within your connected wallet.
 
 🎉 Your account has now been connected with Freee! 🎉
 

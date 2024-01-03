@@ -71,7 +71,7 @@ Upload the media files for your Edition. These files can be a video, gif, audio,
 
 ## 4. Sale Details
 
-![](../../imgs/multi-edition\_5.png)
+![](../../imgs/multi-edition\_5.jpg)
 
 1. Set your **mint price**: Enter your desired amount in ETH. The price can be updated once your edition has been created.
 2. Set a Mint **Start time**: You can choose between:

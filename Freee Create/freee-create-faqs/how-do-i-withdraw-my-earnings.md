@@ -2,13 +2,11 @@
 
 This article applies to both editions and drops
 
-To begin, you'll need to access the "Manage collection" section. There are two way's that you can access your collection's settings:
+To begin, you'll need to access the "Manage collection" section. 
 
-1. The first is to navigate to the "Your Collections" page and select the collection you want to manage. A link to that page can be found [here]().
+1. Navigate to the "Your Collections" page and select the collection you want to manage. A link to that page can be found [here](https://freee.xyz/manage).
 
-2. The second is to navigate from your collections mint page. To do this, select your wallet address/ENS name in the top right corner, then select "**Manage Collection**".
-
-3. You will then be able to view the amount within your treasury 
+2. You will then be able to view the amount within your treasury 
 
 ![](../../imgs/withdraw_1.jpg)
 

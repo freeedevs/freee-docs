@@ -1,5 +1,5 @@
 ---
-description: 公司名称 Terms of Service
+description: Terms of Service
 ---
 
 # Terms of Service
