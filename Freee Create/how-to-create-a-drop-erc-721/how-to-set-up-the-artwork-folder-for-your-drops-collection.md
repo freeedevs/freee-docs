@@ -10,7 +10,7 @@ To successfully upload your artwork folder, you must ensure that the contents ha
    1. These files must be formatted correctly and numbered 1, 2, 3 and so on. \*_Ensure there are no hash marks in the filenames_
 2. Optional - A single **.csv** file containing your collection’s metadata.
 3. Optional - A **thumbnails** folder containing the thumbnail(s) you would like to display on your non-image media (audio/video).
-   1. if you are using non-image media (audio/video), you **must** use the thumbnail folder to upload images for marketplaces to display on list pages. By default they will match on filename `media/1.mp3 -> thumbnails/1.png`
+   1. if you are using non-image media (audio/video), you **must** use the thumbnail folder to upload images for marketplaces to display on list pages. By default they will match on filename `media/1.mp4 -> thumbnails/1.png`
 
 ![](../../imgs/drop-create\_3.png)
 

@@ -52,6 +52,7 @@ It is crucial to make sure that your folder is formatted correctly and has the f
 4. Optional - **ONE** .csv file containing your collection’s metadata. An in-depth guide to formatting your .csv can be found here.
    * If you exclude the .csv file, the NFTs will get standard names and descriptions from your collection details.
 5. Optional - A **thumbnails** folder containing the thumbnail(s) you wish to display on your non-image media (audio/video)
+   1. if you are using non-image media (audio/video), you **must** use the thumbnail folder to upload images for marketplaces to display on list pages. By default they will match on filename `media/1.mp4 -> thumbnails/1.png`
 
 ![](../../imgs/drop-create\_3.png)
 
