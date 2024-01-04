@@ -16,7 +16,7 @@ What types of collections can you create? We have Three different collection typ
 
 ## 1. Single-Edition (ERC-721)
 
-![](../imgs/what-can-creat\_2.png)
+![](../imgs/what-can-creat\_3.png)
 
 A Edition is a dedicated contract and mint page for a collection of same NFTs. Check out an example collection [here](<What can I create on Freee.md>).
 
