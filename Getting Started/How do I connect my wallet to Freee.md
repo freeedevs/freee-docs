@@ -21,4 +21,4 @@ Once your wallet is ready to connect, you can do this via the [Freee homepage](h
 
 ***
 
-Need help connecting your wallet? Contact us here through our help centre or join our [DISCORD](https://discord.gg/jxdwGc3Q) for further assistance.
+Need help connecting your wallet? Contact us here through our help centre or join our [DISCORD](https://discord.gg/u56kZhfERM) for further assistance.
