@@ -40,7 +40,7 @@ At Freee, our mission is to make it as easy and enjoyable as possible for creato
 
        \*_Learn more about creating and formatting a .html collection_ [_here_](../freee-create-faqs/how-to-format-and-upload-an-html-file-for-your-collection.md)_._
 5. Set the **Price** for your edition: Enter your desired amount in ETH. The price can be updated once your edition has been created.
-   1. Collectors pay an additional 0.000777 ETH mint fee to Freee. Learn more about our fees [here](<../../FREEE Mint & Collect Fees.md>).
+   1. Collectors pay an additional 0.000555 ETH mint fee to Freee. Learn more about our fees [here](<../../FREEE Mint & Collect Fees.md>).
 6. Choose **Edition size**: You can choose between
    1. "**Open edition**" does not have a fixed number of edition, and the supply is unlimited.
    2. "**Fixed**" has a fixed number of tokens that can be minted.

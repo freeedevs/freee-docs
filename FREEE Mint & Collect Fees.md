@@ -8,7 +8,7 @@ description: A breakdown of our fee structure
 
 * Yes, Freee charges a flat fee to collectors who mint an NFT created using Freee’s Creator Toolkit. The fee will be clearly displayed to collectors before the confirmation of the mint.
 
-The minting fee is 0.000777 ETH per NFT minted.
+The minting fee is 0.000555 ETH per NFT minted.
 
 ## Are there creation fees?
 
