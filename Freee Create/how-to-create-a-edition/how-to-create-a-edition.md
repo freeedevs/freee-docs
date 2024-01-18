@@ -34,14 +34,12 @@ At Freee, our mission is to make it as easy and enjoyable as possible for creato
 
 ![](../../imgs/single-edition\_3.png)
 
-4. Upload your **Media**: Upload the media files for your Edition. We currently support JPG, PNG, SVG, GIF,WEBP, Zipped HTML folder, MP4, Quicktime, MPEG, MP3, M4A, WAV,PDF, GLTF and GLB files.
+1. Upload your **Media**: Upload the media files for your Edition. We currently support JPG, PNG, SVG, GIF, WEBP, MP4, Quicktime, MPEG, MP3, M4A, WAV,PDF, GLTF and GLB files.
    1. **There is a max file size of 2GB**. \*_The larger the file size, the longer it can take for your file to upload_
-   2.  **Are you uploading a .html file?** A reminder that you cannot upload a .html file on its own; it must be zipped together with all your relevant assets/files.
 
-       \*_Learn more about creating and formatting a .html collection_ [_here_](../freee-create-faqs/how-to-format-and-upload-an-html-file-for-your-collection.md)_._
-5. Set the **Price** for your edition: Enter your desired amount in ETH. The price can be updated once your edition has been created.
+2. Set the **Price** for your edition: Enter your desired amount in ETH. The price can be updated once your edition has been created.
    1. Collectors pay an additional 0.000555 ETH mint fee to Freee. Learn more about our fees [here](<../../FREEE Mint & Collect Fees.md>).
-6. Choose **Edition size**: You can choose between
+3. Choose **Edition size**: You can choose between
    1. "**Open edition**" does not have a fixed number of edition, and the supply is unlimited.
    2. "**Fixed**" has a fixed number of tokens that can be minted.
 

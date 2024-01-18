@@ -16,10 +16,7 @@
 
 [Do I have to pay a fee to collect my earnings?](do-i-have-to-pay-a-fee-to-collect-my-earnings.md)
 
-## 5. How to format and upload an HTML file for your collection?
 
-[How to format and upload an HTML file for your collection?](how-to-format-and-upload-an-html-file-for-your-collection.md)
-
-## 6. Can I add a custom payout address to my collection?
+## 5. Can I add a custom payout address to my collection?
 
 [Can I add a custom payout address to my collection?](can-i-add-a-custom-payout-address-to-my-collection.md)

@@ -70,7 +70,7 @@ _What are the features of a Multi-Edition?_
 
 * Create for free
 * Open and limited editions
-* Supported media types: Images, Video, HTML, PDF
+* Supported media types: Images, Video, PDF
 * Attributes
 * Updatable metadata
 * Auto Reserve

@@ -26,7 +26,6 @@
     * [How do I use a split contract with my collection?](<Freee Create/freee-create-faqs/how-do-i-use-a-split-contract-with-my-collection.md>)
     * [How do I withdraw my earnings?](<Freee Create/freee-create-faqs/how-do-i-withdraw-my-earnings.md>)
     * [Do I have to pay a fee to collect my earnings?](<Freee Create/freee-create-faqs/do-i-have-to-pay-a-fee-to-collect-my-earnings.md>)
-    * [How to format and upload an HTML file for your collection](<Freee Create/freee-create-faqs/how-to-format-and-upload-an-html-file-for-your-collection.md>)
     * [Can I add a custom payout address to my collection?](<Freee Create/freee-create-faqs/can-i-add-a-custom-payout-address-to-my-collection.md>)
 * [Smart Contracts](smart-contracts/README.md)
   * [Deployed Contract Addresses](smart-contracts/contract-addresses.md)
