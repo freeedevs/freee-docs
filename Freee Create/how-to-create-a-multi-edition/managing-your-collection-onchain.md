@@ -10,7 +10,7 @@ To access the "_Manage Collection_" section for your collection, you'll first ne
 
 \*\*_A link to your manage page can also be found_ [_here_](https://freee.xyz/manage)_._
 
-![](../../imgs/multi-manage\_1.gif)
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

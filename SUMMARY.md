@@ -21,6 +21,7 @@
   * [Collection Features](<Freee Create/Collection Features/README.md>)
     * [How can I create an Airdrop?](<Freee Create/Collection Features/How can I create an Airdrop.md>)
     * [How can I create an Allowlist?](<Freee Create/Collection Features/How can I create an Allowlist.md>)
+    * [Receive blast rewards](freee-create/collection-features/receive-blast-rewards.md)
   * [Create FAQs](<Freee Create/freee-create-faqs/README.md>)
     * [Can I connect a multi-sig wallet?](<Freee Create/freee-create-faqs/can-i-connect-a-multi-sig-wallet.md>)
     * [How do I use a split contract with my collection?](<Freee Create/freee-create-faqs/how-do-i-use-a-split-contract-with-my-collection.md>)

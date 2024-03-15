@@ -40,18 +40,19 @@ Upload the media files for your Edition. These files can be a video, gif, audio,
 
 ## 2. Enter your Basic Details
 
-![](../../imgs/multi-edition\_3.png)
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 1. Enter the **name** of your edition. \*_Remember this will only show on this individual edition_
 2. Enter a **description** for your edition. \*_Remember this will only show on this individual edition_
 3. Choose **Edition Size**: You can choose between
    1. "Open" does not have a fixed number of editions, and the supply is unlimited.
    2. "Fixed" has a fixed number of tokens that can be minted.
-4.  Enter a percentage amount for your resale royalty.
+4. Select Network.
+5.  Enter a percentage amount for your resale royalty.
 
     \*This must be a whole number
-5. Input a Payout Address: This will automatically fill with the connected wallet. This can be updated even after the collection has been created.
-6. Optional: Add attributes to your edition.
+6. Input a Payout Address: This will automatically fill with the connected wallet. This can be updated even after the collection has been created.
+7. Optional: Add attributes to your edition.
 
 ***
 

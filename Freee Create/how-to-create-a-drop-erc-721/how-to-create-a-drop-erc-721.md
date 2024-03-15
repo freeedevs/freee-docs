@@ -91,13 +91,16 @@ Enter the details of your collection as listed below
 
 \*Required Fields
 
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
 ![](../../imgs/drop-create\_7.png)
 
 1. Add the collection **Name** for your drop.\*
 2. Upload a **Collection Thumbnail**. This field is used as a logo image on most marketplaces. 1080x1080px is recommended.
 3. Enter the **Symbol** for your drop. The symbol acts as a token name for your drop and cannot be changed once your contract has been created.\*
 4. Add a **description**: This can be any information you want to explain or add to your drop, including external links.\*
-5. Set your **mint price**: Enter each edition's amount (ETH). The price can be updated once your edition has been created.
+5. Select Network.
+6. Set your **mint price**: Enter each edition's amount (ETH). The price can be updated once your edition has been created.
 
 ![](../../imgs/drop-create\_8.png)
 

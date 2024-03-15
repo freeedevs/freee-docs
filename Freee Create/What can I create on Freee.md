@@ -36,6 +36,7 @@ _What are the features of a Edition?_
 * Custom payout address
 * Treasury Additional admins
 * Transfer ownership
+* Multiple networks
 
 ## 2. Drops Collection (ERC-721)
 
@@ -59,6 +60,7 @@ _What are the features of a Drop?_
 * Custom payout address
 * Treasury Additional admins
 * Transfer ownership
+* Multiple networks
 
 ## 3. Multi-Edition (ERC-1155)
 
@@ -79,3 +81,4 @@ _What are the features of a Multi-Edition?_
 * Airdrop
 * Custom payout address
 * Treasury
+* Multiple networks

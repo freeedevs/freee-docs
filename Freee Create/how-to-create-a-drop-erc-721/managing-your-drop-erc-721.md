@@ -10,7 +10,7 @@ The ways that you can find you can manage your Drop and access your collection's
 
 Navigate to the "Manage Collections" page and select the collection you want to manage. A link to that page can be found [here](https://freee.xyz/manage).
 
-![](../../imgs/drop-manage\_1.jpg)
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
