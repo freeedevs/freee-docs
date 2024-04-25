@@ -14,4 +14,4 @@ You can view your minted NFTs on your profile page.
 
 ## "I still can't see the NFT that I have minted"
 
-If your NFT still does not appear on your Profile, don't hesitate to contact our Support either [here](<Why can't I see my minted NFT(s).md>) at our help centre or join our [DISCORD](https://discord.gg/u56kZhfERM).
+If your NFT still does not appear on your Profile, don't hesitate to contact our Support either [here](<Why can't I see my minted NFT(s).md>) at our help centre or join our [DISCORD](https://discord.gg/freee).
