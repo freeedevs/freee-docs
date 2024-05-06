@@ -66,8 +66,8 @@ A guide to managing your collection and it's editions.
 
 ## 5. Collection Features
 
-[Collection Features](broken-reference)
+[Collection Features](<Collection Features/>)
 
 ## 6. FREEE Create FAQs
 
-[Create FAQs](broken-reference)
+[Create FAQs](freee-create-faqs/)

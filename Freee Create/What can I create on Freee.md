@@ -18,7 +18,7 @@ What types of collections can you create? We have Three different collection typ
 
 ![](../imgs/what-can-creat\_3.png)
 
-A Edition is a dedicated contract and mint page for a collection of same NFTs. Check out an example collection [here](<What can I create on Freee.md>).
+A Edition is a dedicated contract and mint page for a collection of same NFTs. Check out an example collection [here](<What can I create on Freee.md#id-1.-single-edition-erc-721>).
 
 _What are the features of a Edition?_
 
@@ -42,7 +42,7 @@ _What are the features of a Edition?_
 
 ![](../imgs/what-can-creat\_2.png)
 
-A Drop is a dedicated contract and mint page for a collection of unique NFTs. Check out an example collection [here](<What can I create on Freee.md>).
+A Drop is a dedicated contract and mint page for a collection of unique NFTs. Check out an example collection [here](<What can I create on Freee.md#id-2.-drops-collection-erc-721>).
 
 _What are the features of a Drop?_
 
@@ -64,7 +64,7 @@ _What are the features of a Drop?_
 
 ## 3. Multi-Edition (ERC-1155)
 
-**Multi-Edition** collections are a flexible contract for multiple editions. Each edition created will have its own mint page. Check out an example collection [here](<What can I create on Freee.md>)
+**Multi-Edition** collections are a flexible contract for multiple editions. Each edition created will have its own mint page. Check out an example collection [here](<What can I create on Freee.md#id-3.-multi-edition-erc-1155>).
 
 ![](../imgs/what-can-creat\_1.png)
 

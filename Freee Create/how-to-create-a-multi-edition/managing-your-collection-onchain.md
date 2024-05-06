@@ -10,7 +10,7 @@ To access the "_Manage Collection_" section for your collection, you'll first ne
 
 \*\*_A link to your manage page can also be found_ [_here_](https://freee.xyz/manage)_._
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -27,7 +27,7 @@ There are "**TWO**" levels of settings that you can manage within your collectio
 
 #### 2.1.1 Collection Overview
 
-![](../../imgs/multi-manage\_2.jpg)
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 In your settings, you can currently update and change the metadata of your **collection** and your **editions**. For your individual editions, you can also create airdrops and allowlists.
 
@@ -37,7 +37,7 @@ While viewing the overview page of your collection, you can **Add/Modify your Tw
 
 To update your collection, navigate to the **"Settings"** tab. From here, you can update your collection **name**, **description**, **thumbnail** and **Admins**.
 
-![](../../imgs/multi-manage\_3.jpg)
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -47,7 +47,7 @@ To update your collection, navigate to the **"Settings"** tab. From here, you ca
 
 You can select the edition from your collection overview page to update one of your editions within your 1155 collection. From here, you can update your edition's **sale configuration**, view the number of tokens that have been minted, create an **airdrop**, and manage your **allowlist**.
 
-![](../../imgs/multi-manage\_4.jpg)
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 #### 2.2.2 Manage your Airdrop
 
@@ -56,7 +56,7 @@ You can select the edition from your collection overview page to update one of y
 
 If you'd like to start over, click on Reset, and all of the wallets added will be deleted.
 
-![](../../imgs/multi-manage\_5.jpg)
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 #### 2.2.3 Manage your Allowlist
 
@@ -68,13 +68,13 @@ If you want to make a pre-sale or give different mint prices to specific wallets
 
 **You can create multiple Allowlists for different prices, mint limits, and addresses.**
 
-![](../../imgs/multi-manage\_6.jpg)
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 #### 2.2.4 Manage your Edition Settings
 
 Select the Settings tab to update your collection's metadata, including the edition's **name**, **description**, **attributes** and **artwork file**.
 
-![](../../imgs/multi-manage\_7.jpg)
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 Once you are satisfied with the changes you have made:
 

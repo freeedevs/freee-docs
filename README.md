@@ -14,7 +14,7 @@ description: Advice and answers from the Freee Team
 
 ## 3. Smart Contracts
 
-[All about the freee contracts](smart-contracts/)
+[All about the freee contracts](./#id-3.-smart-contracts)
 
 ## 4. Freee Fee
 

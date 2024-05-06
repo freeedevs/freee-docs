@@ -19,7 +19,7 @@ There are two ways that you are able to create an allowlist for your collection 
 
 To create an allowlist, your edition must be onchain (minted from). You CANNOT create an allowlist from a premint edition. Once your edition has been brought onchain, you will be able to access the allowlist feature.
 
-![](../../imgs/multi-manage\_6.jpg)
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 1. To begin, you'll need to access your edition settings, which can be done by navigating through your [Dashboard](https://freee.xyz/manage).
 2. Once into your edition settings, follow through the top tab that says "**Allowlist**".
