@@ -8,14 +8,16 @@ description: A breakdown of our fee structure
 
 * Yes, Freee charges a flat fee to collectors who mint an NFT created using Freee’s Creator Toolkit. The fee will be clearly displayed to collectors before the confirmation of the mint.
 
-| Chain        | Platform fee |
-| ------------ | ------------ |
-| Ethereum     | 0.000555 ETH |
-| Base         | 0.000555 ETH |
-| Blast        | 0.000555 ETH |
-| OP Mainnet   | 0.000555 ETH |
-| Arbitrum One | 0.000555 ETH |
-| BNB Chain    | 0.003 BNB    |
+| Chain     | Platform fee |
+| --------- | ------------ |
+| Ethereum  | 0.000555 ETH |
+| Base      | 0.000555 ETH |
+| Blast     | 0.000555 ETH |
+| Optimism  | 0.000555 ETH |
+| Arbitrum  | 0.000555 ETH |
+| BNB Chain | 0.003 BNB    |
+| opBNB     | 0.003 BNB    |
+| Bitlayer  | 0.00003 BTC  |
 
 ## Are there creation fees?
 
