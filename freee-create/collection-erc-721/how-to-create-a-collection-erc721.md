@@ -80,7 +80,7 @@ Click on the Add a Presale button to start setting up.&#x20;
 
 ### 2.3 Lock trading before mint out
 
-It's up to project owner to decide whether to lock trading of collection on secondary market before collection mint out. This option is default tuned **ON** for collection.&#x20;
+It's up to project owner to decide whether to disable trading of collection's NFT on secondary market before collection mint out. This option is default tuned **ON** for collection.&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-08-06 at 16.10.54.png" alt=""><figcaption></figcaption></figure>
 
@@ -90,7 +90,7 @@ It's up to project owner to decide whether to lock trading of collection on seco
 
 What is a reveal experience?&#x20;
 
-Sometimes, creator/project owner don’t reveal their artwork until after the project mint out. When user participate in the collection mint, the NFTs everyone mints will at first look the same, which is placeholder pre-reveal artwork. The “real” NFT metadata and artwork will be “revealed” afterward when the creator/project owner updates the NFT’s metadata.
+Sometimes, creator/project owner don’t reveal their artwork until after the project mint out. When user participate in the collection mint, the NFT everyone mints will at first look the same, which is placeholder pre-reveal artwork. The “real” NFT metadata and artwork will be “revealed” afterward when the creator/project owner updates the collection NFT’s metadata.
 
 Freee provides 2 options for creator/project owner, where you get to decide whether you want a reveal experience for your collection or rather not to have.
 
@@ -128,7 +128,7 @@ This is the last step for creating a Collection on Freee. You are required to re
 Once you click the "**Create**" button to finish creating your colletion. This will prompt you to accept a gas fee, refer steps below:
 
 1. An upload process will start automatically once you’ve approved the transaction within your wallet. This process is there to upload setup related to artwork onto decentralised storage.
-2. After upload done, a message will appear within your connected wallet for you to approve the gas fee to complete the creation of your drop. Review and approve it, then wait for your transaction to complete:&#x20;
+2. After upload done, a message will appear within your connected wallet for you to approve the gas fee to complete the creation of your drop. Review and approve it, then wait for your transaction to complete.
 3. Once the transaction has been confirmed and collection created, you're set to launch your NFT collection on Freee.
 
 
