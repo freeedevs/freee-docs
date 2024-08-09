@@ -12,8 +12,6 @@ We recommend using our [testnet](https://testnet.freee.xyz/) before setting your
 
 ***
 
-
-
 ## Creating your Collection
 
 Follow the step-by-step guide below to get your collection setup on Freee in no time.
@@ -45,8 +43,6 @@ Fill in the details of your collection:
 8. Select **Network** where you want to deploy your collection contract. \*
 
 ***
-
-
 
 ## Step 2: Setup Sale Stages
 
@@ -88,6 +84,8 @@ It's up to project owner to decide whether to lock trading of collection on seco
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-08-06 at 16.10.54.png" alt=""><figcaption></figcaption></figure>
 
+***
+
 ## Step 3: Prepare for Reveal Experience
 
 What is a reveal experience?&#x20;
@@ -118,6 +116,8 @@ Creator/project owner are provided with 2 ways to collection artworks.&#x20;
 <figure><img src="../../.gitbook/assets/Screenshot 2024-08-06 at 16.41.12.png" alt=""><figcaption></figcaption></figure>
 
 Refer [How to upload collection artworks?](how-to-upload-collection-artworks.md) section for more details.
+
+***
 
 ## Step 4: Review and Create
 
