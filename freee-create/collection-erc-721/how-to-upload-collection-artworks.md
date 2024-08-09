@@ -25,13 +25,13 @@ First at all, make sure your folder contains following components:
 
 1.  A **media** folder containing all of your artwork files.
 
-    These files must be formatted correctly and numbered 1, 2, 3 and so on. \*_Ensure there are no hash marks in the filenames._
+    These files must be formatted correctly and numbered 1, 2, 3 and so on. \*_Ensure there are no hash marks (#) in the filename._
 2.  Optional - A single **.csv** file containing your collection’s metadata.
 
-    \*_If you exclude the .csv file, the NFTs will get standard names and descriptions from your collection details._
+    \*_If you exclude the .csv file, the NFTs will get default name and description from your collection details._
 3.  Optional - A **thumbnails** folder containing the thumbnail(s) you would like to display on your non-image media (audio/video).
 
-    _\*If you are using non-image media (audio/video), you **must** use the thumbnail folder to upload images for marketplaces to display on list pages. By default they will match on filename `media/1.mp4 -> thumbnails/1.png`_
+    _\*If you are using non-image media (audio/video), you **MUST** include the thumbnail folder to upload images for marketplaces to display on collection listing page. By default they will match on filename `media/1.mp4 -> thumbnails/1.png`_
 
 Check out this [link](others/in-depth-outline-of-collection-artworks-folder.md) for in-depth outline about artworks folder.
 

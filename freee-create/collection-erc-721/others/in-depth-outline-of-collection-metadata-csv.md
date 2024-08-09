@@ -34,7 +34,7 @@ The components of your .csv document must be formatted correctly to ensure that 
 
 There are a few essential rules that you **MUST** follow when creating your file:
 
-1. The first row of the .csv MUST be used as a header for the titles of each column. When the file is read to display your collection information, it is read from row 2 onwards.
-2. There can only be ONE .csv file in your artwork folder.
+1. The first row of the .csv **MUST** be used as a header for the titles of each column. When the file is read to display your collection information, it is read from row 2 onwards.
+2. There can only be **ONE** .csv file in your artwork folder.
 
 Your .csv file is now good to go! Place the .csv file into your artwork folder and continue with the creation of your collection.

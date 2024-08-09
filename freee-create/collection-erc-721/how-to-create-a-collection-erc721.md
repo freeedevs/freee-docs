@@ -125,7 +125,7 @@ This is the last step for creating a Collection on Freee. You are required to re
 
 <figure><img src="../../.gitbook/assets/screencapture-freee-xyz-create-collection-2024-08-06-16_46_10.png" alt=""><figcaption></figcaption></figure>
 
-Once you click the "**Create**" button to finish creating your colletion. This will prompt you to accept a gas fee, refer steps below:
+Once you click the "**Create**" button to finish creating your collection. This will prompt you to accept a gas fee, refer steps below:
 
 1. An upload process will start automatically once you’ve approved the transaction within your wallet. This process is there to upload setup related to artwork onto decentralised storage.
 2. After upload done, a message will appear within your connected wallet for you to approve the gas fee to complete the creation of your drop. Review and approve it, then wait for your transaction to complete.
