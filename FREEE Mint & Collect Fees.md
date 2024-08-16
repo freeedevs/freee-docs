@@ -18,6 +18,7 @@ description: A breakdown of our fee structure
 | BNB Chain | 0.003 BNB    |
 | opBNB     | 0.003 BNB    |
 | Bitlayer  | 0.00003 BTC  |
+| Polygon   | 3 MATIC      |
 
 ## Are there creation fees?
 
