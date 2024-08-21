@@ -65,7 +65,7 @@ Click on the Add a Presale button to start setting up.&#x20;
 
 1. Enter **Stage** **Name** for your presale. \*
 2. \[Optional] Set a **Stage Supply** if applicable. This limit the number of NFT that can be mint during this stage.
-3. Set a **Stage Price,** enter your desired amount in ETH. The price can be updated after your collection has been created.
+3. Set a **Stage Price,** enter your desired amount in ETH (or other selected chain currency). The price can be updated after your collection has been created.
 4. Decide **Start & end time** of current presale stage. This is **optional during contract creation**, but you are require to setup afterward, else your collection Presale stage won't start.
 5. Fill in **Mint limit per address** for current stage. This is **required**, presale stage need to have a default limit of number of NFT an allowlist address can mint. \*
 6. Setup **Allowlist** for current stage, setup list of wallet addresses that allow to mint at current stage. You have option to upload an CSV (follow specified format) or enter all addresses manually. This is **optional during contract creation**, but you are require to setup afterward, else your collection Presale stage will be inactive.
@@ -74,7 +74,7 @@ Click on the Add a Presale button to start setting up.&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-08-06 at 15.37.20.png" alt=""><figcaption></figcaption></figure>
 
-1. Set a **Price** for public sale, enter your desired amount in ETH. The price can be updated after your collection has been created.
+1. Set a **Price** for public sale, enter your desired amount in ETH (or other selected chain currency). The price can be updated after your collection has been created.
 2. Decide **Start & end time** of public sale. This is **optional during contract creation**, but you are require to setup afterward, else your collection Presale stage won't start.
 3. Fill in **Mint limit per address** for public sale. This is **optional**, leave empty if don't want to limit number of NFT a user can mint.
 
@@ -111,7 +111,7 @@ Select **I want reveal experience, setup pre-reveal** option.
 
 Select **No reveal needed, upload collection artworks** option.
 
-Creator/project owner are provided with 2 ways to collection artworks.&#x20;
+Creator/project owner are provided with 2 ways to upload collection artworks.&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-08-06 at 16.41.12.png" alt=""><figcaption></figcaption></figure>
 
