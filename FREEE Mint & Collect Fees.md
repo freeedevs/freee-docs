@@ -15,10 +15,11 @@ description: A breakdown of our fee structure
 | Blast     | 0.000555 ETH |
 | Optimism  | 0.000555 ETH |
 | Arbitrum  | 0.000555 ETH |
+| Scroll    | 0.000555 ETH |
 | BNB Chain | 0.003 BNB    |
 | opBNB     | 0.003 BNB    |
 | Bitlayer  | 0.00003 BTC  |
-| Polygon   | 3 MATIC      |
+| Polygon   | 3 POL        |
 
 ## Are there creation fees?
 
