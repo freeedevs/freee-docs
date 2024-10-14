@@ -1,12 +1,12 @@
-# How do I share and earn?
+# How to share to earn
 
 Sharing is at the core of community growth on Freee. By inviting others to join the platform, you are helping to build the community. At the same time, rewards earned for your efforts. When your referrals become active and start minting or creating, you continue to benefit from the platform fee distribution.
 
 There are 3 different types of reward you can earn by sharing:
 
-1. [Mint Referral Reward](how-do-i-share-and-earn.md#mint-referral-reward)
-2. [Points Reward](how-do-i-share-and-earn.md#points-reward)
-3. [Create Referral Reward (coming soon)](how-do-i-share-and-earn.md#create-referral-reward)
+1. [Mint Referral Reward](how-to-share-to-earn.md#mint-referral-reward)
+2. [Points Reward](how-to-share-to-earn.md#points-reward)
+3. [Create Referral Reward (coming soon)](how-to-share-to-earn.md#create-referral-reward)
 
 ***
 
