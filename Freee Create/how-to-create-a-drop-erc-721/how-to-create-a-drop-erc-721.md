@@ -91,7 +91,7 @@ Enter the details of your collection as listed below
 
 \*Required Fields
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ![](../../imgs/drop-create\_7.png)
 

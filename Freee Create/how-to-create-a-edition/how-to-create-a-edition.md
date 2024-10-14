@@ -42,7 +42,7 @@ At Freee, our mission is to make it as easy and enjoyable as possible for creato
    1. "**Open edition**" does not have a fixed number of edition, and the supply is unlimited.
    2. "**Fixed**" has a fixed number of tokens that can be minted.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 7. Set **Mint Start** time and **Mint End** time: You can choose between:
    1. "**Now**" will start your mint period immediately after deploying your edition.

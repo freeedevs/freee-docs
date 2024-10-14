@@ -8,7 +8,7 @@ The ways that you can find you can manage your single-edition and access your co
 
 Navigate to your Dashboard and select the collection you want to manage. A link to that page can be found [here](https://freee.xyz/manage).
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

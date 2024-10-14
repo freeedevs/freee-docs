@@ -40,7 +40,7 @@ Upload the media files for your Edition. These files can be a video, gif, audio,
 
 ## 2. Enter your Basic Details
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Enter the **name** of your edition. \*_Remember this will only show on this individual edition_
 2. Enter a **description** for your edition. \*_Remember this will only show on this individual edition_
