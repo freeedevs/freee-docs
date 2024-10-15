@@ -66,10 +66,6 @@ Find below for our breakdown of the Freee Platform fee and how it is split among
 When Create Referral Reward or Mint Referral Reward doesn't exist, the reward will be attribute as Platform Reward.
 {% endhint %}
 
-**Example  - Base Platform Fees(0.000555ETH)**
-
-
-
 ***
 
 ##
