@@ -38,9 +38,9 @@ This rewards users and platforms that showcase posts made with Freee’s Creator
 * Users who share mint links.
 * Alternative clients that let collectors mint on their app
 
-#### **Freee Fee**
+#### **Platform Reward**
 
-Fee that goes to Freee on every succesfful NFT mint. To note, when Create Referral Reward or Mint Referral Reward doesn't exist, the reward will be allocate as Freee Platform Fee.
+Reward that goes to the platform, Freee.xyz on every succesfful NFT mint. To note, when Create Referral Reward or Mint Referral Reward doesn't exist, the reward will be allocate as Platform Reward.
 
 
 
@@ -50,7 +50,7 @@ Find below for our breakdown of the Freee Platform fee and how it is split among
 
 **Rewards Breakdown for Free Mint:**
 
-<table data-header-hidden><thead><tr><th width="371"></th><th></th></tr></thead><tbody><tr><td>Creator Reward</td><td>42% of platform fee</td></tr><tr><td>Create Referral Reward</td><td>14% of platform fee</td></tr><tr><td>Mint Referral Reward</td><td>14% of platform fee</td></tr><tr><td>Freee Fee</td><td>30% of platform fee</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="371"></th><th></th></tr></thead><tbody><tr><td>Creator Reward</td><td>42% of platform fee</td></tr><tr><td>Create Referral Reward</td><td>14% of platform fee</td></tr><tr><td>Mint Referral Reward</td><td>14% of platform fee</td></tr><tr><td>Platform Reward</td><td>30% of platform fee</td></tr></tbody></table>
 
 \*when mint price set to 0\
 \
@@ -60,10 +60,10 @@ Find below for our breakdown of the Freee Platform fee and how it is split among
 | ---------------------- | ------------------- |
 | Create Referral Reward | 14% of platform fee |
 | Mint Referral Reward   | 28% of platform fee |
-| Freee Fee              | 58% of platform fee |
+| Platform Reward        | 58% of platform fee |
 
 {% hint style="info" %}
-When Create Referral Reward or Mint Referral Reward doesn't exist, the reward will be allocate as Freee Fee.
+When Create Referral Reward or Mint Referral Reward doesn't exist, the reward will be attribute as Platform Reward.
 {% endhint %}
 
 ***
