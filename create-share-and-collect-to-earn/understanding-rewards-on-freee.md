@@ -50,17 +50,17 @@ Find below for our breakdown of the Freee Platform fee and how it is split among
 
 **Rewards Breakdown for Free Mint:**
 
-<table data-header-hidden><thead><tr><th width="371"></th><th></th></tr></thead><tbody><tr><td>Creator Reward</td><td>42% of platform fee</td></tr><tr><td>Create Referral Reward</td><td>14% of platform fee</td></tr><tr><td>Mint Referral Reward</td><td>14% of platform fee</td></tr><tr><td>Platform Reward</td><td>30% of platform fee</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="371"></th><th></th></tr></thead><tbody><tr><td>Creator Reward</td><td>42% of platform fee</td></tr><tr><td>Creator referrer</td><td>14% of platform fee</td></tr><tr><td>Mint referrer</td><td>14% of platform fee</td></tr><tr><td>Freee fee</td><td>30% of platform fee</td></tr></tbody></table>
 
 \*when mint price set to 0\
 \
 **Rewards Breakdown for Paid Mint:**
 
-| Creator Reward         | 0% of platform fee  |
-| ---------------------- | ------------------- |
-| Create Referral Reward | 14% of platform fee |
-| Mint Referral Reward   | 28% of platform fee |
-| Platform Reward        | 58% of platform fee |
+| Creator Reward   | 0% of platform fee  |
+| ---------------- | ------------------- |
+| Creator referrer | 14% of platform fee |
+| Mint referrer    | 28% of platform fee |
+| Preee fee        | 58% of platform fee |
 
 {% hint style="info" %}
 When Create Referral Reward or Mint Referral Reward doesn't exist, the reward will be attribute as Platform Reward.
