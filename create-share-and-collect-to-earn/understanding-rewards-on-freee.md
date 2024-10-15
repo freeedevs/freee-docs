@@ -54,7 +54,7 @@ Find below for our breakdown of the Freee Platform fee and how it is split among
 
 \*when mint price set to 0\
 \
-**Rewards Breakdown for Paid Mint(**Example  - Base platform fee 0.000555 ETH**):**
+**Rewards Breakdown for Paid Mint (**Example  - Base platform fee 0.000555 ETH**):**
 
 | Creator Reward   | 0% of platform fee (0)              |
 | ---------------- | ----------------------------------- |
