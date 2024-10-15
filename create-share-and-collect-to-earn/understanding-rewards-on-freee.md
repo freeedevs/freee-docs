@@ -60,7 +60,7 @@ Find below for our breakdown of the Freee Platform fee and how it is split among
 | ---------------- | ------------------- |
 | Creator referrer | 14% of platform fee |
 | Mint referrer    | 28% of platform fee |
-| Preee fee        | 58% of platform fee |
+| Freee fee        | 58% of platform fee |
 
 {% hint style="info" %}
 When Create Referral Reward or Mint Referral Reward doesn't exist, the reward will be attribute as Platform Reward.
