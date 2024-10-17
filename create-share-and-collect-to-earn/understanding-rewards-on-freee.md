@@ -50,7 +50,7 @@ Find below for our breakdown of the Freee Platform fee and how it is split among
 
 **Rewards Breakdown for Free Mint (**Example  - Base platform fee 0.000555 ETH**):**
 
-<table data-header-hidden><thead><tr><th width="371"></th><th></th></tr></thead><tbody><tr><td>Creator Reward</td><td>42% of platform fee (0.0002331 ETH)</td></tr><tr><td>Creator referrer</td><td>14% of platform fee (0.0000777 ETH)</td></tr><tr><td>Mint referrer</td><td>14% of platform fee (0.0000777 ETH)</td></tr><tr><td>Freee fee</td><td>30% of platform fee (0.0001665 ETH)</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="371"></th><th></th></tr></thead><tbody><tr><td>Creator Reward</td><td>40% of platform fee (0.0002220 ETH)</td></tr><tr><td>Creator referrer</td><td>10% of platform fee (0.0000555 ETH)</td></tr><tr><td>Mint referrer</td><td>20% of platform fee (0.0001110 ETH)</td></tr><tr><td>Freee fee</td><td>30% of platform fee (0.0001665 ETH)</td></tr></tbody></table>
 
 \*when mint price set to 0\
 \
@@ -58,9 +58,9 @@ Find below for our breakdown of the Freee Platform fee and how it is split among
 
 | Creator Reward   | 0% of platform fee (0)              |
 | ---------------- | ----------------------------------- |
-| Creator referrer | 14% of platform fee (0.0000777 ETH) |
-| Mint referrer    | 28% of platform fee (0.0001554 ETH) |
-| Freee fee        | 58% of platform fee (0.0003219 ETH) |
+| Creator referrer | 10% of platform fee (0.0000555 ETH) |
+| Mint referrer    | 30% of platform fee (0.0001665 ETH) |
+| Freee fee        | 60% of platform fee (0.0003330 ETH) |
 
 {% hint style="info" %}
 When Create Referral Reward or Mint Referral Reward doesn't exist, the reward will be attribute as Platform Reward.
