@@ -63,7 +63,7 @@ Find below for our breakdown of the Freee Platform fee and how it is split among
 | Freee fee        | 60% of platform fee (0.000333 ETH)  |
 
 {% hint style="info" %}
-When Create Referral Reward or Mint Referral Reward doesn't exist, the reward will be attribute as Platform Reward.
+When Create Referral Reward or Mint Referral Reward doesn't exist, the reward will be attribute as Freee fee.
 {% endhint %}
 
 ***
