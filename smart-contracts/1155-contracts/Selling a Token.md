@@ -2,11 +2,11 @@
 
 Once a token has been created, it can then be put up for sale.
 
-Minter strategy contracts are separate contracts that hold minting logic, but the main 1155 is called for minting. 
+Minter strategy contracts are separate contracts that hold minting logic, but the main 1155 is called for minting.
 
-Check out the [minting](./Minting Tokens.md) section to learn more about minters.
+Check out the \[minting]\(./Minting Tokens.md) section to learn more about minters.
 
-View the list of deployed contract addresses [here](../contract-addresses.md).
+View the list of deployed contract addresses [here](../contract-addresses/).
 
 To create a sale you must use the `callSale` function on the 1155 contract.
 
@@ -22,13 +22,14 @@ function callSale(
 
 The data that is passed into the minter is used to call the `setSale` function.
 
-Each minter has a unique salesConfig. 
+Each minter has a unique salesConfig.
 
 ```sol
 function setSale(uint256 tokenId, SalesConfig memory salesConfig) 
 ```
 
 ### Fixed Price Sale
+
 Calling `callSale` on an 1155 contract will create a sale for an NFT, but the `FIXED_PRICE_SALE_STRATEGY` address must be specified.
 
 The `salesConfig` for a fixed price is structured as follows:
@@ -47,7 +48,7 @@ struct SalesConfig {
 
 Create a allow list sale with a Merkle proof.
 
-Note, the price and the max mint amount per address are specified when creating the Merkle tree. 
+Note, the price and the max mint amount per address are specified when creating the Merkle tree.
 
 The Merkle sales config is as follows:
 
@@ -64,8 +65,8 @@ struct MerkleSaleSettings {
 
 Royalties are set on the main 1155 contract.
 
-- `royaltyBPS`: The royalty amount in basis points for secondary sales.
-- `royaltyRecipient`: The address that will receive the royalty payments.
+* `royaltyBPS`: The royalty amount in basis points for secondary sales.
+* `royaltyRecipient`: The address that will receive the royalty payments.
 
 ```sol
 struct RoyaltyConfiguration {

@@ -8,7 +8,7 @@ Each drop contract is cloned from an `implementation` address and receives its o
 
 Both `Editions` and `Drops` use the same base contract but have different metadata rendering contracts.
 
-View the list of deployed contract addresses [here](../contract-addresses.md).
+View the list of deployed contract addresses [here](../contract-addresses/).
 
 * `Edition`: A collection where all the NFTs share the same media asset.
 * `Drop`: A collection where all the NFTs have individual pieces of media.

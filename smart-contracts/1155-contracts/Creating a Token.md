@@ -1,11 +1,10 @@
-
 # Creating a Token
 
 Calling `setupNewTokenWithCreateReferral` on a deployed 1155 contract will create a new token.
 
-View the list of deployed contract addresses [here](../contract-addresses.md).
+View the list of deployed contract addresses [here](../contract-addresses/).
 
-All tokens start at tokenId 1 and increment up. 
+All tokens start at tokenId 1 and increment up.
 
 tokenId 0 is reserved for the contract information.
 
@@ -20,7 +19,7 @@ function setupNewToken(
 
 ## Updating Metadata
 
-`updateTokenURI` updates the token URI for a token. 
+`updateTokenURI` updates the token URI for a token.
 
 Won't work for tokenId 0 since that is reserved for the contract level information.
 
@@ -39,4 +38,3 @@ function updateContractMetadata(
     string memory _newName
 )
 ```
-

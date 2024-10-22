@@ -1,12 +1,14 @@
 ---
-description: Metadata rendering contract for NFTs with individual media assets.
+description: >-
+  Metadata rendering contract for NFTs with individual media assets
+  (Collection).
 ---
 
-# Drop Metadata Renderer
+# Collection Metadata Renderer
 
-This contract is in charge of managing and rendering the metadata for drops.
+This contract is in charge of managing and rendering the metadata for collection on Freee.
 
-A drop is an NFT collection where all the NFTs have individual media assets.
+A collection NFTs have unique individual media assets.
 
 Whenever a `tokenURI` is called on an NFT contract it is forwarded to this contract to get metadata for a specific NFT.
 
