@@ -2,7 +2,7 @@
 description: A breakdown of our fee structure
 ---
 
-# Freee Fees
+# Freee Platform Fees
 
 ## Are there platform fees?
 
@@ -20,6 +20,7 @@ description: A breakdown of our fee structure
 | opBNB     | 0.003 BNB    |
 | Bitlayer  | 0.00003 BTC  |
 | Polygon   | 3 POL        |
+| ApeChain  | 0.2 APE      |
 
 ## Are there creation fees?
 
