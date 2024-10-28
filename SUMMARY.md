@@ -61,6 +61,7 @@
   * [How to create to earn](create-share-and-collect-to-earn/how-to-create-to-earn.md)
   * [How to share to earn](create-share-and-collect-to-earn/how-to-share-to-earn.md)
   * [How to collect to earn](create-share-and-collect-to-earn/how-to-collect-to-earn.md)
+  * [Diamond Rewards Chart](create-share-and-collect-to-earn/diamond-rewards-chart.md)
 * [Freee FAQs](<FREEE FAQs/README.md>)
   * [Why can't I mint from a collection ?](<FREEE FAQs/Why can't I mint from a collection.md>)
   * [Why can't I see my minted NFT(s) ?](<FREEE FAQs/Why can't I see my minted NFT(s).md>)

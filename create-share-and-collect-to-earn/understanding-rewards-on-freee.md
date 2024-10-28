@@ -66,13 +66,11 @@ When Create Referral Reward or Mint Referral Reward doesn't exist, the reward wi
 
 ***
 
-##
-
 ## Purple Diamonds
 
 ### **Earning Mechanism**
 
-Users are rewarded with 100 Purple Diamonds each time they mint an NFT on Freee.
+Users are rewarded with 100 Purple Diamonds each time they mint an NFT on Freee. Purple diamonds distribution is subject to specific conditions, [learn more](diamond-rewards-chart.md).
 
 ### **Potential Uses**
 
@@ -86,7 +84,7 @@ Users are rewarded with 100 Purple Diamonds each time they mint an NFT on Freee.
 
 ### **Earning Mechanism**
 
-Creators receive 100 Blue Diamonds each time their NFT is minted by another user.
+Creators receive 100 Blue Diamonds each time their NFT is minted by another user. Blue diamonds distribution is subject to specific conditions, [learn more](diamond-rewards-chart.md).
 
 ### **Potential Uses**
 
