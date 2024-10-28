@@ -8,7 +8,7 @@ Diamonds distribution are differ by chain and NFT type on Freee.xyz. Find table 
 
 **\*Diamond rewarded per mint**
 
-Other than specific conditions above, selected NFTs will have diamond boosting when you mint. Bonus Purple Diamonds will be rewarded by minting boosted NFTs..&#x20;
+Other than specific conditions above, selected NFTs will have diamond boosting when you mint. Bonus Purple Diamonds will be rewarded by minting boosted NFTs.
 
 ***
 
