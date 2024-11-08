@@ -1,4 +1,4 @@
-# How do I create and earn?
+# How to create to earn
 
 ### Introduction
 
@@ -34,7 +34,7 @@ To claim your rewards:
 
 Other than platform fee sharing, creator automatically earn 100 Blue Diamonds with every successful mint of your NFT by a user, you. You can check your Diamonds on the airdrop page.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Blue diamonds rewards</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Blue diamonds rewards</p></figcaption></figure>
 
 **Potential Uses:**
 

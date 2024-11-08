@@ -6,7 +6,7 @@ There are 3 different types of reward you can earn by sharing:
 
 1. [Mint Referral Reward](how-to-share-to-earn.md#mint-referral-reward)
 2. [Points Reward](how-to-share-to-earn.md#points-reward)
-3. [Create Referral Reward (coming soon)](how-to-share-to-earn.md#create-referral-reward)
+3. [Create Referral Reward ](how-to-share-to-earn.md#create-referral-reward)
 
 ***
 
@@ -65,4 +65,39 @@ Another way for you to earn Freee Points is by completing a sharing task and get
 
 ## **Create Referral Reward**
 
-Coming soon...
+The Create Referral is part of our Protocol Rewards, which allows you to earn a portion of the Freee Mint fee. This reward incentivizes the Freee Community to share, invite, or provide a platform for fellow artists to create on Freee. If you invite a new creator who signs up and deploys an NFT collection using Freee’s Creator Toolkit, you receive a create referral reward on **every** mint from their collections on Freee!
+
+**Want to invite a creator to Freee?** Invite them using our create referral links and earn rewards.
+
+**Who should I invite?**
+
+* Your friends
+* Your family
+* Anyone who you think needs(!) to be creating collections on Freee
+* A small private group where you know everyone who can access your posts.
+
+### **How do I share my Create Referral Link? (mobile)**
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="365"><figcaption></figcaption></figure>
+
+1. Open menu by click on profile gravatar,  then select **Invite.**
+2. Viewing your referral, you can share your referral easily by copying your link or through your social accounts:
+   * X (formerly Twitter)
+   * Telegram
+   * Whatsapp
+   * You can also download and share your referral image and QR code.
+3. Invite creators and earn rewards.
+
+### **How do I share my Create Referral Link? (web)**
+
+&#x20;   &#x20;
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+1. To invite a creator to Freee, select **Invite** from top navigation bar.
+2. Viewing your referral, you can share your referral easily by copying your link or through your social accounts:
+   * X (formerly Twitter)
+   * Telegram
+   * Whatsapp
+   * You can also download and share your referral image and QR code.
+3. Invite creators and earn rewards.
