@@ -65,7 +65,7 @@ Another way for you to earn Freee Points is by completing a sharing task and get
 
 ## **Create Referral Reward**
 
-The Create Referral is part of our Protocol Rewards, which allows you to earn a portion of the Freee Mint fee. This reward incentivizes the Freee Community to share, invite, or provide a platform for fellow artists to create on Freee. If you invite a new creator who signs up and deploys an NFT collection using Freee’s Creator Toolkit, you receive a create referral reward on **every** mint from their collections on Freee!
+The Create Referral is part of our Protocol Rewards, which allows you to earn 10% of the platform fee. This reward incentivizes the Freee Community to share, invite, or provide a platform for fellow artists to create on Freee. If you invite a new creator who signs up and deploys an NFT collection using Freee’s Creator Toolkit, you receive a create referral reward on **every** mint from their collections on Freee!
 
 **Want to invite a creator to Freee?** Invite them using our create referral links and earn rewards.
 
