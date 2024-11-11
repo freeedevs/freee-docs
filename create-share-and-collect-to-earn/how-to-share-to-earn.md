@@ -16,7 +16,7 @@ There are 3 different types of reward you can earn by sharing:
 
 Mint Referral Reward is intended to incentivise individuals who discover and promote a NFT mint page - whether through social media like X (Twitter), Discord, or other platforms. As long as the the NFT was created using Freee's Creator Toolkit, you earn the reward automatically when mint come through.
 
-You can earn maximum 28% from the platform fee each time an NFT is minted through a link you share or embedded mint on your website. This applies to mints completed on Freee directly or on an alternative platform.
+You can earn maximum 20% from the platform fee each time an NFT is minted through a link you share or embedded mint on your website. This applies to mints completed on Freee directly or on an alternative platform.
 
 _\*\*You can learn more about Protocol Rewards and how they work_ [_here_](understanding-rewards-on-freee.md)_._
 
