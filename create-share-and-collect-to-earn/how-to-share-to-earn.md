@@ -24,7 +24,7 @@ _\*\*You can learn more about Protocol Rewards and how they work_ [_here_](under
 
 Learn how to share and embed the collection by following the guide below:
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>NFT Mint page on Freee</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Share referral link dialog (1).png" alt=""><figcaption><p>NFT Mint page on Freee</p></figcaption></figure>
 
 1. On the mint page you want to share, find share button below the title, ➦, click on it to display the following pop-up.
 2. Select **"Copy"** and share that link to your community, X (Twitter), Discord, or anywhere else you like!
