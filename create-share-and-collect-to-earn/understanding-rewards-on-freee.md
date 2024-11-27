@@ -12,7 +12,7 @@ Welcome to Freee, the innovative platform where creativity and community engagem
 
 ### **Earning Mechanism**
 
-Freee's mission is to bring creativity onchain, and we're committed to providing the best tools and features to help creators earn sustainably from their work, even while posts are available for 0 ETH. Our Protocol Rewards enable creators and developers on Freee to automatically earn a share of the mint fees collectors pay. Regular contributors to the platform can potentially earn a steady stream of income through this fee-sharing mechanism.
+Freee's mission is to bring creativity onchain, and we're committed to providing the best tools and features to help creators earn sustainably from their work, even while posts are available for 0 ETH. Our Protocol Rewards enable creators and developers on Freee to automatically earn a share of the mint fees collectors pay. Regular contributors to the platform can potentially earn a steady stream of income through this fee-sharing mechanism. Protocol Rewards is currently **only applicable to** **Multi-edition** type contract on Freee.xyz.
 
 Before viewing the fee breakdown, there are a few terms you should understand:
 
@@ -48,13 +48,13 @@ Reward that goes to the platform, Freee.xyz on every succesfful NFT mint. To not
 
 Find below for our breakdown of the Freee Platform fee and how it is split among creators, collectors, developers, builders, and Freee.
 
-**Rewards Breakdown for Free Mint (**Example  - Base platform fee 0.000555 ETH**):**
+**Rewards Breakdown for Free Mint (**&#x45;xample  - Base platform fee 0.000555 ET&#x48;**):**
 
 <table data-header-hidden><thead><tr><th width="330"></th><th></th></tr></thead><tbody><tr><td>Creator Reward</td><td>40% of platform fee (0.000222 ETH)</td></tr><tr><td>Creator referrer</td><td>10% of platform fee (0.0000555 ETH)</td></tr><tr><td>Mint referrer</td><td>20% of platform fee (0.000111 ETH)</td></tr><tr><td>Freee fee</td><td>30% of platform fee (0.0001665 ETH)</td></tr></tbody></table>
 
 \*when mint price set to 0\
 \
-**Rewards Breakdown for Paid Mint (**Example  - Base platform fee 0.000555 ETH**):**
+**Rewards Breakdown for Paid Mint (**&#x45;xample  - Base platform fee 0.000555 ET&#x48;**):**
 
 <table data-header-hidden><thead><tr><th width="330"></th><th></th></tr></thead><tbody><tr><td>Creator Reward</td><td>0% of platform fee (Entitled to all Paid Mint fees)</td></tr><tr><td>Creator referrer</td><td>10% of platform fee (0.0000555 ETH)</td></tr><tr><td>Mint referrer</td><td>30% of platform fee (0.0001665 ETH)</td></tr><tr><td>Freee fee</td><td>60% of platform fee (0.000333 ETH)</td></tr></tbody></table>
 
