@@ -11,13 +11,13 @@ description: A breakdown of our fee structure
 | Chain     | Platform fee |
 | --------- | ------------ |
 | Ethereum  | 0.000555 ETH |
-| Base      | 0.000555 ETH |
+| Base      | 0.0001 ETH   |
 | Blast     | 0.000555 ETH |
 | Optimism  | 0.000555 ETH |
 | Arbitrum  | 0.000555 ETH |
 | Scroll    | 0.000555 ETH |
-| BNB Chain | 0.003 BNB    |
-| opBNB     | 0.003 BNB    |
+| BNB Chain | 0.0004 BNB   |
+| opBNB     | 0.0004 BNB   |
 | Bitlayer  | 0.00003 BTC  |
 | Polygon   | 3 POL        |
 | ApeChain  | 0.2 APE      |
