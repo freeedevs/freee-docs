@@ -14,7 +14,7 @@ Creators are the lifeblood of the Freee ecosystem. By contributing your unique N
 By creating on Freee you are entitled for platform fee sharing of every successful mint of your NFT. This platform fee sharing come with prerequisites below:
 
 1. The price of your NFT must be **0**, which means that it's a **Free Mint**;
-2. Currently, Freee **ONLY** support platform fee sharing on **Multi-edition** type NFT;
+2. Currently, Freee **ONLY** support platform fee sharing on **Single-edition** and **Multi-edition** type NFT;
 
 \*\*_For details of platform fee sharing breakdown, please refer_ [_here_](understanding-rewards-on-freee.md)_._
 
