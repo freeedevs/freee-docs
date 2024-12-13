@@ -16,10 +16,10 @@ description: A breakdown of our fee structure
 | Optimism  | 0.000555 ETH |
 | Arbitrum  | 0.000555 ETH |
 | Scroll    | 0.000555 ETH |
-| BNB Chain | 0.0004 BNB   |
-| opBNB     | 0.0004 BNB   |
+| BNB Chain | 0.0006 BNB   |
+| opBNB     | 0.0006 BNB   |
 | Bitlayer  | 0.00003 BTC  |
-| Polygon   | 3 POL        |
+| Polygon   | 0.5 POL      |
 | ApeChain  | 0.2 APE      |
 
 ## Are there creation fees?
