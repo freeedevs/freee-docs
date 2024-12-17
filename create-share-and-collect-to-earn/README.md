@@ -1,6 +1,6 @@
 # Create, share, and collect to earn
 
-Welcome to Freee.xyz, the innovative platform where creativity and community engagement are rewarded. Our platform is designed to foster a thriving ecosystem for NFT creators and collectors alike. \
+Welcome to [Freee.xyz](https://www.freee.xyz/), the innovative platform where creativity and community engagement are rewarded. Our platform is designed to foster a thriving ecosystem for NFT creators and collectors alike. \
 \
 By participating in various activities on Freee, users can earn rewards in the form of Diamonds and Points, as well as share in the platform's success through platform fee distribution. \
 \
