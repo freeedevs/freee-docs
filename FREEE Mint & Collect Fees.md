@@ -21,6 +21,7 @@ description: A breakdown of our fee structure
 | Bitlayer  | 0.00003 BTC  |
 | Polygon   | 0.5 POL      |
 | ApeChain  | 0.2 APE      |
+| Sei       | 0.5 SEI      |
 
 ## Are there creation fees?
 
