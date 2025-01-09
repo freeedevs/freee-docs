@@ -48,9 +48,9 @@
 
 
 
+## Sei (Chain Id: 1329)
 
-
-
+<table><thead><tr><th width="301">Type</th><th>Address</th></tr></thead><tbody><tr><td>1155 Factory Proxy</td><td>0x0E7d99b2214Dad1e9fC295C9d25a4fb8393dd376</td></tr><tr><td>1155 Factory Impl</td><td>0xf61CAd351e2ecc565829B97dbC8Ca3148A5639bf</td></tr><tr><td>1155 Contract Impl</td><td>0xbcDaAEdBbf31DE26aFce9fb458F8F66B9C7d9564</td></tr><tr><td>1155 Fixed Price Sale Strategy</td><td>0x4A10A08567D3c70316af0F609d9B31009f8C661C</td></tr><tr><td>1155 Merkle Mint Sale Strategy</td><td>0x9579f8e371A6E947F9A32C384e24725798Ee8E0E</td></tr><tr><td>1155 Protocol Rewards</td><td>0x136649effF6A8106B64b713F30B5E7c7F56447D9</td></tr><tr><td>721 Creator Proxy</td><td>0x85B91b56B778E1d34ccC39f4b633dd73492C3EAD</td></tr><tr><td>721 Creator Impl</td><td>0xEF9233BB20AcA0F625C28c54A9b3762461D64e88</td></tr><tr><td>721 Factory Upgrade Gate</td><td>0x6E24795c928BE0189F3036cF3D3715C4Cc80cC3D</td></tr><tr><td>721 Contract Impl</td><td>0xff61FE486168cC0daE7dCa48390cC68E0dfa4695</td></tr><tr><td>721 Drop Metadata Renderer</td><td>0x189Fd31b507B70b72155C577e13B56d5a39Bb899</td></tr><tr><td>721 Edition Metadata Renderer</td><td>0x567459b3FC29c3E065a791d79Ebeed91928AbEe6</td></tr><tr><td>721 Collection Creator Proxy</td><td>0xC6d0a18ad9B7db2D3567bb860f212e9cB9f354E3</td></tr><tr><td>721 Collection Creator Impl</td><td>0x3CdFe25242D944124a2c2a1819323F1AB205c78d</td></tr><tr><td>721 Collection Factory Upgrade Gate</td><td>0xa25615fBd4FbBD82984Ac4C12FB9f9c286d8D0Aa</td></tr><tr><td>721 Collection Metadata Renderer</td><td>0xbE98F2b642987f6a14aa354DCEAdeC8F826CB6CC</td></tr><tr><td>721 Collection Contract Impl</td><td>0x6f1456CbaC8367e84d8534DDFf1f0aaDe031dEaE</td></tr></tbody></table>
 
 
 
