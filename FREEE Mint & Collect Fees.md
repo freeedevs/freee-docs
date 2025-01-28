@@ -22,6 +22,7 @@ description: A breakdown of our fee structure
 | Polygon   | 0.5 POL      |
 | ApeChain  | 0.2 APE      |
 | Sei       | 0.5 SEI      |
+| Abstract  | 0.0001 ETH   |
 
 ## Are there creation fees?
 
