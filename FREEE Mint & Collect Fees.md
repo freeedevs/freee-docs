@@ -20,9 +20,10 @@ description: A breakdown of our fee structure
 | opBNB     | 0.0006 BNB   |
 | Bitlayer  | 0.00003 BTC  |
 | Polygon   | 0.5 POL      |
-| ApeChain  | 0.2 APE      |
-| Sei       | 0.5 SEI      |
+| ApeChain  | 0.5 APE      |
+| Sei       | 1 SEI        |
 | Abstract  | 0.0002 ETH   |
+| UniChain  | 0.0002 ETH   |
 
 ## Are there creation fees?
 
