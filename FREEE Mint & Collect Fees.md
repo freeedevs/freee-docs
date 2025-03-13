@@ -19,7 +19,7 @@ description: A breakdown of our fee structure
 | BNB Chain | 0.0006 BNB   |
 | opBNB     | 0.0006 BNB   |
 | Bitlayer  | 0.00003 BTC  |
-| Polygon   | 0.5 POL      |
+| Polygon   | 1 POL        |
 | ApeChain  | 0.5 APE      |
 | Sei       | 1 SEI        |
 | Abstract  | 0.0002 ETH   |
