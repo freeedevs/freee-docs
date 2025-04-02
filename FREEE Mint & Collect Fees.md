@@ -12,17 +12,15 @@ description: A breakdown of our fee structure
 | --------- | ------------ |
 | Ethereum  | 0.000555 ETH |
 | Base      | 0.0003 ETH   |
-| Blast     | 0.000555 ETH |
 | Optimism  | 0.000555 ETH |
 | Arbitrum  | 0.000555 ETH |
-| Scroll    | 0.000555 ETH |
 | BNB Chain | 0.0006 BNB   |
-| opBNB     | 0.0006 BNB   |
 | Bitlayer  | 0.00003 BTC  |
 | Polygon   | 1 POL        |
 | ApeChain  | 0.5 APE      |
 | Sei       | 1 SEI        |
 | Abstract  | 0.0003 ETH   |
+| Berachain | 0.05 BERA    |
 | UniChain  | 0.0002 ETH   |
 
 ## Are there creation fees?
