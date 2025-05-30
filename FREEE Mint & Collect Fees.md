@@ -11,7 +11,7 @@ description: A breakdown of our fee structure
 | Chain     | Platform fee |
 | --------- | ------------ |
 | Ethereum  | 0.000555 ETH |
-| Base      | 0.0003 ETH   |
+| Base      | 0.0002 ETH   |
 | Optimism  | 0.000555 ETH |
 | Arbitrum  | 0.000555 ETH |
 | BNB Chain | 0.0006 BNB   |
