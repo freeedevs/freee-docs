@@ -15,8 +15,6 @@ description: A breakdown of our fee structure
 | Optimism  | 0.000555 ETH |
 | Arbitrum  | 0.000555 ETH |
 | BNB Chain | 0.0006 BNB   |
-| opBNB     | 0.0006 BNB   |
-| Bitlayer  | 0.00003 BTC  |
 | Polygon   | 1 POL        |
 | ApeChain  | 0.5 APE      |
 | Sei       | 1 SEI        |
