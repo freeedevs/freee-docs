@@ -16,7 +16,7 @@ We recommend using our [testnet](https://testnet.freee.xyz) before deploying any
 
 At Freee, our mission is to make it as easy and enjoyable as possible for creators to bring their imagination and creativity onchain. It's now even easier to realize value for your work on Freee with just an Ethereum wallet!
 
-![](../../imgs/singl-edition\_1.gif)
+![](../../.gitbook/assets/singl-edition_1.gif)
 
 1. Connect your wallet to [Freee.xyz](https://freee.xyz/)
 2. Click the **"Create"** Button in the top right corner to begin creating your collection.
@@ -26,13 +26,13 @@ At Freee, our mission is to make it as easy and enjoyable as possible for creato
 
 ## 1. Enter your Basic Details
 
-![](../../imgs/single-edition\_2.png)
+![](../../.gitbook/assets/single-edition_2.png)
 
 1. Enter the **Name** of your edition.
 2. Enter a **Symbol** for your edition.
 3. Enter a **Description** for your edition.
 
-![](../../imgs/single-edition\_3.png)
+![](../../.gitbook/assets/single-edition_3.png)
 
 1. Upload your **Media**: Upload the media files for your Edition. We currently support JPG, PNG, SVG, GIF, WEBP, MP4, Quicktime, MPEG, MP3, M4A, WAV,PDF, GLTF and GLB files.
    1. **There is a max file size of 2GB**. \*_The larger the file size, the longer it can take for your file to upload_
@@ -67,4 +67,4 @@ Once you click the "**Create**" button to finish creating your edition. This wil
 2. Wait for your transaction to complete: The upload process has begun once you’ve approved the transaction within your wallet. You can check the status of your upload by viewing the transaction on your relevant block explorer (e.g. Etherscan).
 3. Edition Created 🎉: Once the transaction has been confirmed, your collection will be created and ready to share with your community.
 
-![](../../imgs/single-edition\_5.jpg)
+![](../../.gitbook/assets/single-edition_5.jpg)

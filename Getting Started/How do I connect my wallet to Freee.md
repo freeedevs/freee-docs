@@ -13,7 +13,7 @@ Once your wallet is ready to connect, you can do this via the [Freee homepage](h
 1. Click on the **"Connect"** button on the top right corner of the page.
 2. Select your wallet type.
 
-![](../imgs/connect-wallet\_1.gif)
+![](../.gitbook/assets/connect-wallet_1.gif)
 
 3. Follow the instructions within your connected wallet.
 

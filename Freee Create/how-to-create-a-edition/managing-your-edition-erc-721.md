@@ -16,11 +16,11 @@ Navigate to your Dashboard and select the collection you want to manage. A link 
 
 In the "**Settings**" of your single edition, you can update its metadata and sale configuration. These include **price**, **the start and end date** and setting a **minting limit** per address for your collection.
 
-![](../../imgs/single-edition-manage\_2.png)
+![](../../.gitbook/assets/single-edition-manage_2.png)
 
 You can also update the metadata of your collections, including the description, the file/artwork itself and the **cover image** of your collection.
 
-![](../../imgs/single-edition-manage\_3.png)
+![](../../.gitbook/assets/single-edition-manage_3.png)
 
 Once you are satisfied with the changes you have made
 

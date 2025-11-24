@@ -16,7 +16,7 @@ It is essential to make sure that you have set up your wallet with funds to appr
 
 * To connect your wallet, click "**connect wallet**" and select "**WalletConnect**".
 
-![](../../imgs/multi-sig\_1.jpg)
+![](../../.gitbook/assets/multi-sig_1.jpg)
 
 * Select "**OPEN**" next to the title "Need the WalletConnect modal?"
 

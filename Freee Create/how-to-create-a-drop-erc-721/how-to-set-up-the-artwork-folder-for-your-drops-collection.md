@@ -12,9 +12,9 @@ To successfully upload your artwork folder, you must ensure that the contents ha
 3. Optional - A **thumbnails** folder containing the thumbnail(s) you would like to display on your non-image media (audio/video).
    1. if you are using non-image media (audio/video), you **must** use the thumbnail folder to upload images for marketplaces to display on list pages. By default they will match on filename `media/1.mp4 -> thumbnails/1.png`
 
-![](../../imgs/drop-create\_3.png)
+![](../../.gitbook/assets/drop-create_3.png)
 
-![](../../imgs/drop-create\_4.png)
+![](../../.gitbook/assets/drop-create_4.png)
 
 ## In-depth Outline
 
@@ -23,7 +23,7 @@ Follow below to further understand the components of your "Artwork Folder"
 1. Inside your **media** folder, there must be the correct number of artworks you intend to upload as part of your drop. It is essential to ensure you have placed the correct number of artworks in your folder because once you have created your collection, the number of artworks **cannot be changed**.
 2. These files must be formatted correctly and numbered 1, 2, 3 and so on. Ensure there are no hash marks in the filenames
 
-![](../../imgs/drop-create\_3.png)
+![](../../.gitbook/assets/drop-create_3.png)
 
 3. Optional - A **singular .csv** file containing your collection’s metadata. A guide to formatting your .csv can be found here. Below is an example of what your .csv file can look like:
 
@@ -36,7 +36,7 @@ Follow below to further understand the components of your "Artwork Folder"
 
 4. Optional - A **thumbnails** folder. If you are using non-image media (audio/video) for your drops collection, you can use a ‘thumbnails’ folder to upload images for marketplaces to display on list pages. By default, they will match on the filename (e.g. media/1.mp3 will link to thumbnails/1.png).
 
-![](../../imgs/drop-create\_4.png)
+![](../../.gitbook/assets/drop-create_4.png)
 
 Your artwork folder is now suitable to go! Upload your artwork folder and continue with the creation of your drops collection.
 

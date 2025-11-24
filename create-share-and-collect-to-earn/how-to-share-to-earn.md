@@ -28,8 +28,7 @@ Learn how to share and embed the collection by following the guide below:
 
 1. On the mint page you want to share, find share button below the title, ➦, click on it to display the following pop-up.
 2. Select **"Copy"** and share that link to your community, X (Twitter), Discord, or anywhere else you like!
-3.  Alternatively, select **\</>** to bring up the following embed code. Pasting this code into your web page code will display the mint modal on your external website.\
-
+3.  Alternatively, select **\</>** to bring up the following embed code. Pasting this code into your web page code will display the mint modal on your external website.<br>
 
     <figure><img src="../.gitbook/assets/Screenshot 2024-10-14 at 15.37.14.png" alt=""><figcaption><p>Embed code for NFT Minting</p></figcaption></figure>
 

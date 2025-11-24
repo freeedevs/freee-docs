@@ -22,7 +22,7 @@ At Freee, our mission is to make it as easy and enjoyable as possible for creato
 2. Click the **"Create"** Button in the top right corner to begin creating your collection.
 3. Select **"Multi-Edition"** from the drop-down menu.
 
-![](../../imgs/multi-edition\_1.gif)
+![](../../.gitbook/assets/multi-edition_1.gif)
 
 \*\*_Want to create a drop collection (ERC-721)? Follow our guide_ [_here_](../how-to-create-a-drop-erc-721/how-to-create-a-drop-erc-721.md)_._
 
@@ -30,7 +30,7 @@ At Freee, our mission is to make it as easy and enjoyable as possible for creato
 
 ## 1. Upload your Media
 
-![](../../imgs/multi-edition\_2.jpg)
+![](../../.gitbook/assets/multi-edition_2.jpg)
 
 Upload the media files for your Edition. These files can be a video, gif, audio, PDF or image file type.
 
@@ -58,7 +58,7 @@ Upload the media files for your Edition. These files can be a video, gif, audio,
 
 ## 3. Collection
 
-![](../../imgs/multi-edition\_4.png)
+![](../../.gitbook/assets/multi-edition_4.png)
 
 **Add your token to a collection**. There are two options for adding your Edition to a collection.
 
@@ -72,7 +72,7 @@ Upload the media files for your Edition. These files can be a video, gif, audio,
 
 ## 4. Sale Details
 
-![](../../imgs/multi-edition\_5.jpg)
+![](../../.gitbook/assets/multi-edition_5.jpg)
 
 1. Set your **mint price**: Enter your desired amount in ETH. The price can be updated once your edition has been created.
 2. Set a Mint **Start time**: You can choose between:
@@ -86,7 +86,7 @@ Upload the media files for your Edition. These files can be a video, gif, audio,
 
 ## 5. Review & Create
 
-![](../../imgs/multi-edition\_6.png)
+![](../../.gitbook/assets/multi-edition_6.png)
 
 Preview and check the collection information you have set. After confirming that it is correct, click the **Create button** to complete the creation of your collection.
 

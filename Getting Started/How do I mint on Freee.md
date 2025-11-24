@@ -19,7 +19,7 @@ There are multiple places that you can mint on FREEE.
 
     1. For each NFT you mint, you will pay a fee of 0.000555ETH. This is per NFT and not per transaction. You learn more about our [mint fees](<../FREEE Mint & Collect Fees.md>) here.
 
-    ![](../imgs/mint\_1.jpg)
+    ![](../.gitbook/assets/mint_1.jpg)
 4. Once you are ready, select "mint" and confirm the transaction when prompted by your wallet. When the transaction is successful, you will be shown the following screen.
 
 You have now minted your NFTs, and they will show in your wallet shortly 🎉

@@ -40,7 +40,6 @@ To reveal your collection,
 3.  **Approve** the Gas fee.
 
     A message will appear within your connected wallet for you to approve the gas fee to complete the update. Gas fees are the cost of interacting with the blockchain. Gas fees are not set or collected by Freee.
-4.  A success dialog will pop out once collection reveal successfully. You can now view your collection artworks on Freee or any secondary market. Do note that it might take sometime, normally less than 5 minutes, for collection artwork to update on secondary market.\
-
+4.  A success dialog will pop out once collection reveal successfully. You can now view your collection artworks on Freee or any secondary market. Do note that it might take sometime, normally less than 5 minutes, for collection artwork to update on secondary market.<br>
 
     <figure><img src="../../../.gitbook/assets/Screenshot 2024-08-20 at 09.43.13.png" alt=""><figcaption></figcaption></figure>

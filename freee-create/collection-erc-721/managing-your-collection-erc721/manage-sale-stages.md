@@ -77,17 +77,14 @@ Recommended for large allowlist with more than 20 addresses, and support up to 1
 1. Click on the **CSV upload** button.
 2.  **Select** allowlist CSV file from your computer.
 
-    Your allowlist CSV file must contains all  3 columns: 'Wallet Address, 'Price', and 'Mint Limit'.\
-
+    Your allowlist CSV file must contains all  3 columns: 'Wallet Address, 'Price', and 'Mint Limit'.<br>
 
     <figure><img src="../../../.gitbook/assets/Screenshot 2024-08-19 at 19.57.23.png" alt=""><figcaption></figcaption></figure>
-3.  Click **Next** button and review the first few lines of your allowlist.\
-
+3.  Click **Next** button and review the first few lines of your allowlist.<br>
 
     <figure><img src="../../../.gitbook/assets/Screenshot 2024-08-19 at 20.00.38.png" alt=""><figcaption></figcaption></figure>
 4. If everything looks fine, click on **Add items** button to proceed.
-5.  Imported allowlist will show in table, click **Confirm** to add Allowlist into selected presale stage.\
-
+5.  Imported allowlist will show in table, click **Confirm** to add Allowlist into selected presale stage.<br>
 
 
 
@@ -97,16 +94,14 @@ Recommended for large allowlist with more than 20 addresses, and support up to 1
 
 Recommended for small allowlist with a size of 10 to 20 addresses.
 
-1.  Click on the **Manual entry** button\
-
+1.  Click on the **Manual entry** button<br>
 
     <figure><img src="../../../.gitbook/assets/Screenshot 2024-08-19 at 20.06.49 (1).png" alt=""><figcaption></figcaption></figure>
 2. Enter **Wallet Addresses** of the accounts for your allowlist. ​
 3. Set a **price** for all these wallet addresses.
 4. Set a **mint limit** for all these wallet addresses. ​
 5. Click on **Add items** button to proceed.
-6.  Allowlist entries will list down in a table, click **Confirm** to add Allowlist into selected presale stage.\
-
+6.  Allowlist entries will list down in a table, click **Confirm** to add Allowlist into selected presale stage.<br>
 
     <figure><img src="../../../.gitbook/assets/Screenshot 2024-08-19 at 20.02.09 (1).png" alt=""><figcaption></figcaption></figure>
 

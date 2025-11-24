@@ -21,6 +21,7 @@ description: A breakdown of our fee structure
 | Abstract  | 0.0003 ETH   |
 | Berachain | 0.05 BERA    |
 | UniChain  | 0.0002 ETH   |
+| Monad     | 30 MON       |
 
 ## Are there creation fees?
 

@@ -38,7 +38,7 @@ Continue with our step-by-step guide below to upload your allowlist.
 
 If you are adding a small number of wallet addresses (\~20) to your allowlist, we recommend doing so through our manual entry form. To quickly add these items, you can follow our steps below:
 
-![](../../imgs/allowlist\_1.gif)
+![](../../.gitbook/assets/allowlist_1.gif)
 
 1. Select "Add Items"
 2. Enter the **Wallet Addresses** of the accounts for your allowlist. ​
@@ -56,7 +56,7 @@ If you are adding a small number of wallet addresses (\~20) to your allowlist, w
 
 The second option to create your allowlist is to upload a file using the "**CSV Upload**" option. This is a great option for larger and more complicated allowlists that can have thousands of entries. To add your CSV file, follow along below:
 
-![](../../imgs/allowlist\_2.gif)
+![](../../.gitbook/assets/allowlist_2.gif)
 
 1. Select "**Add Items**" ​
 2. Choose "**CSV Upload**"

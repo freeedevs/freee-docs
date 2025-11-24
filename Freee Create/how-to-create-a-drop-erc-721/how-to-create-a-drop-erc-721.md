@@ -16,7 +16,7 @@ We recommend using our [testnet](https://testnet.freee.xyz) before setting your 
 
 At Freee, we aim to make it as easy and enjoyable as possible for creators to bring their imagination and creativity onchain.
 
-![](../../imgs/drop-create\_1.gif)
+![](../../.gitbook/assets/drop-create_1.gif)
 
 1. Connect your wallet to [freee.xyz](https://freee.xyz)
 2. Follow this link here: [https://freee.xyz/create/drop](https://freee.xyz/create/drop)
@@ -36,7 +36,7 @@ There are two ways that you can upload your drop to Freee:
 
 To upload your artwork and metadata directly onto Freee, ensure that you have selected the "Upload from computer" tab and follow the instructions below:
 
-![](../../imgs/drop-create\_2.jpg)
+![](../../.gitbook/assets/drop-create_2.jpg)
 
 Under the title "Media & metadata folder", click **"Replace"** and select your desired artwork folder. For best practice, download our example folder **OR** follow our in-depth guide here:
 
@@ -54,11 +54,11 @@ It is crucial to make sure that your folder is formatted correctly and has the f
 5. Optional - A **thumbnails** folder containing the thumbnail(s) you wish to display on your non-image media (audio/video)
    1. if you are using non-image media (audio/video), you **must** use the thumbnail folder to upload images for marketplaces to display on list pages. By default they will match on filename `media/1.mp4 -> thumbnails/1.png`
 
-![](../../imgs/drop-create\_3.png)
+![](../../.gitbook/assets/drop-create_3.png)
 
 or
 
-![](../../imgs/drop-create\_4.png)
+![](../../.gitbook/assets/drop-create_4.png)
 
 Once your artwork folder has been successfully uploaded, select **"Continue"** at the bottom of the page.
 
@@ -71,7 +71,7 @@ To create your drop using a manual upload, ensure you have selected the "**Impor
 1. "**Metadata URI Base**" - A URL base that returns unique token metadata when appended with a token id (1, 2, 3, etc.). The URL base should end with a trailing slash and work without extensions.
 2. "**Maximum Supply**" - Input the maximum supply for your collection.
 
-![](../../imgs/drop-create\_5.jpg)
+![](../../.gitbook/assets/drop-create_5.jpg)
 
 Once you have input your information above, select "**Continue**" to create your drop.
 
@@ -81,7 +81,7 @@ Once you have input your information above, select "**Continue**" to create your
 
 Now that your artwork has been uploaded, you will be taken to the "**Preview**" page, where you can check to ensure that your artwork and metadata have all been uploaded correctly.
 
-![](../../imgs/drop-create\_6.jpg)
+![](../../.gitbook/assets/drop-create_6.jpg)
 
 At this stage, you can also randomize the order of your drop by selecting "**Randomize tokens**". Once you have checked that the metadata of your collection is correct, select "**Continue**" to begin inputting the details of your collection.
 
@@ -93,7 +93,7 @@ Enter the details of your collection as listed below
 
 <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
-![](../../imgs/drop-create\_7.png)
+![](../../.gitbook/assets/drop-create_7.png)
 
 1. Add the collection **Name** for your drop.\*
 2. Upload a **Collection Thumbnail**. This field is used as a logo image on most marketplaces. 1080x1080px is recommended.
@@ -102,7 +102,7 @@ Enter the details of your collection as listed below
 5. Select Network.
 6. Set your **mint price**: Enter each edition's amount (ETH). The price can be updated once your edition has been created.
 
-![](../../imgs/drop-create\_8.png)
+![](../../.gitbook/assets/drop-create_8.png)
 
 6. Optional - Set a **start & end time**: By default, drops will run forever from the moment they are created or until the drop sells out. You can select a custom start and/or end time for your drop.
 7. Add a **mint limit** to your collection. Using this function, you can limit the number of NFTs each individual wallet address can mint.
@@ -115,7 +115,7 @@ Now that you have filled out the details of your collection select "**Upload**" 
 
 After selecting "**Upload**", you will be taken to the "**Finalize Collection**" page. The final step in creating your drop will be to click the "**Create**" button.
 
-![](../../imgs/drop-create\_9.jpg)
+![](../../.gitbook/assets/drop-create_9.jpg)
 
 Once you click the "**Create**" button to finish creating your drop. This will prompt you to accept a gas fee and follow the steps below:
 
