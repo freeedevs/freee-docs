@@ -24,7 +24,7 @@ At Freee, our mission is to make it as easy and enjoyable as possible for creato
 
 ![](../../.gitbook/assets/multi-edition_1.gif)
 
-\*\*_Want to create a drop collection (ERC-721)? Follow our guide_ [_here_](../how-to-create-a-drop-erc-721/how-to-create-a-drop-erc-721.md)_._
+\*\*_Want to create a drop collection (ERC-721)? Follow our guide_ [_here_](/broken/pages/TUIinGNv2PpHq8PDj9zw)_._
 
 ***
 

@@ -10,17 +10,10 @@ description: A breakdown of our fee structure
 
 | Chain     | Platform fee |
 | --------- | ------------ |
-| Ethereum  | 0.000555 ETH |
+| Ethereum  | 0.0005 ETH   |
 | Base      | 0.0002 ETH   |
-| Optimism  | 0.000555 ETH |
-| Arbitrum  | 0.000555 ETH |
 | BNB Chain | 0.0006 BNB   |
-| Polygon   | 1 POL        |
-| ApeChain  | 0.5 APE      |
-| Sei       | 1 SEI        |
 | Abstract  | 0.0003 ETH   |
-| Berachain | 0.05 BERA    |
-| UniChain  | 0.0002 ETH   |
 | Monad     | 30 MON       |
 
 ## Are there creation fees?

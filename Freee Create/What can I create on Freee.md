@@ -10,7 +10,7 @@ What types of collections can you create? We have Three different collection typ
 
 1\. [Single-Edition (ERC-721)](<What can I create on Freee.md#id-1.-single-edition-erc-721>)
 
-2\. [Drops Collection (ERC-721)](<What can I create on Freee.md#id-2.-drops-collection-erc-721>)
+2\. [Collection (ERC-721)](<What can I create on Freee.md#id-2.-drops-collection-erc-721>)
 
 3.[ Multi-Edition (ERC-1155)](<What can I create on Freee.md#id-3.-multi-edition-erc-1155>)
 
@@ -38,11 +38,11 @@ _What are the features of a Edition?_
 * Transfer ownership
 * Multiple networks
 
-## 2. Drops Collection (ERC-721)
+## 2. Collection (ERC-721)
 
 ![](../.gitbook/assets/what-can-creat_2.png)
 
-A Drop is a dedicated contract and mint page for a collection of unique NFTs. Check out an example collection [here](<What can I create on Freee.md#id-2.-drops-collection-erc-721>).
+A  collection a dedicated contract and mint page for a collection of unique NFTs. Check out an example collection [here](<What can I create on Freee.md#id-2.-drops-collection-erc-721>).
 
 _What are the features of a Drop?_
 
