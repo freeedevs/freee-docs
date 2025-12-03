@@ -16,7 +16,7 @@ description: Advice and answers from the Freee Team
 
 [All about the freee contracts](smart-contracts/)
 
-## 4. Freee Fee
+## 4. Freee Platform Fees
 
 [Learn more about our fees and how they work](<FREEE Mint & Collect Fees.md>)
 
