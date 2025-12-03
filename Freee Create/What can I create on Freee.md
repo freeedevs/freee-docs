@@ -42,7 +42,7 @@ _What are the features of a Edition?_
 
 ![](../.gitbook/assets/what-can-creat_2.png)
 
-A  collection a dedicated contract and mint page for a collection of unique NFTs. Check out an example collection [here](<What can I create on Freee.md#id-2.-drops-collection-erc-721>).
+A  collection a dedicated contract and mint page for a collection of unique NFTs. Check out an example collection [here](<What can I create on Freee.md#id-2.-collection-erc-721>).
 
 _What are the features of a Collection?_
 

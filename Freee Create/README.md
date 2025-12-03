@@ -30,13 +30,13 @@ Guide to managing your ERC-721 edition.
 
 [How to create a Collection (ERC-721)](../freee-create/collection-erc-721/how-to-create-a-collection-erc721.md)
 
-A step-by-step guide on how to create a drop contract on Freee.
+A step-by-step guide on how to create a collection contract on Freee.
 
 ### 3.2 Managing your Collection (ERC-721)
 
 [Managing your Collection (ERC-721)](../freee-create/collection-erc-721/managing-your-collection-erc721/)
 
-A guide to managing your drop collection.
+A guide to managing your collection.
 
 ### 3.3 How to set up the .csv file in your Collection
 

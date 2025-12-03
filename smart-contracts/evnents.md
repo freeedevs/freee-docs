@@ -122,14 +122,14 @@ function mint(
 )
 ```
 
-- The first argument is the minter module which can be found via looking at permissions or the subgraph.
-- The second argument is the desired `tokenId` and the `quantity`.
-- Sales information can be found by querying the subgraph or the fixed price minter's `function sale(address tokenContract, uint256 tokenId) returns (SalesConfig memory)`.
-- MinterArguments for fixed price minter are `abi.encode(address (tokenMintRecipient))`, and `abi.encode(address (tokenMintRecipient), string (mintComment))` if you wish to add a MintComment.
+* The first argument is the minter module which can be found via looking at permissions or the subgraph.
+* The second argument is the desired `tokenId` and the `quantity`.
+* Sales information can be found by querying the subgraph or the fixed price minter's `function sale(address tokenContract, uint256 tokenId) returns (SalesConfig memory)`.
+* MinterArguments for fixed price minter are `abi.encode(address (tokenMintRecipient))`, and `abi.encode(address (tokenMintRecipient), string (mintComment))` if you wish to add a MintComment.
 
 ### Mint Comments
 
-Mint comments are optional strings emitted on the `FixedPriceSaleStrategy`. 
+Mint comments are optional strings emitted on the `FixedPriceSaleStrategy`.
 
 ```sol
 event MintComment(address indexed sender, address indexed tokenContract, uint256 indexed tokenId, uint256 quantity, string comment);
@@ -143,8 +143,7 @@ When permissions are changed the `UpdatedPermissions` event is emitted.
 event UpdatedPermissions(uint256 indexed tokenId, address indexed user, uint256 indexed permissions);
 ```
 
-Global permissions are assigned to token id 0, and individual token permissions are assigned to the token.
-By default, the user that creates a token is given admin permissions on that token.
+Global permissions are assigned to token id 0, and individual token permissions are assigned to the token. By default, the user that creates a token is given admin permissions on that token.
 
 | Permission    | Bits | Numeric | Description                                                         |
 | ------------- | ---- | ------- | ------------------------------------------------------------------- |
@@ -186,17 +185,7 @@ function createEdition(
 )
 ```
 
-#### Creating a Drop:
-
-Event Emitted when a drop is created from the factory:
-
-```sol
-event CreatedDrop(address indexed creator, address indexed editionContractAddress, uint256 editionSize)
-```
-
-This is emitted by the `NFTCreatorV1` factory contract.
-
-##### Setting a Price
+**Setting a Price**
 
 Event emitted with Sales Configuration Setup:
 
@@ -206,7 +195,7 @@ event SalesConfigChanged(address indexed changedBy);
 
 After this event is emitted, the contract sales information can be queried and stored.
 
-##### Collecting a Token
+**Collecting a Token**
 
 First, sales information can be retrieved by calling `salesConfig()` on the 721 contract which returns all of the presale (allowlist), and public sale (standard purchase) configuration.
 
@@ -215,26 +204,3 @@ After this call, the `function mint(address recipient, uint256 quantity, string 
 The mint fee can be queried from `feeForAmount(uint256 amount) returns (address, uint256 fee)` which returns the total mint fee for a given amount.
 
 The value sent is `pricePerToken * numberOfTokens + mintFee`.
-
-This emits:
-
-```sol
-event IERC721Drop.Sale(
-    address recipient,
-    uint256 quantity,
-    uint256 pricePerToken,
-    uint256 firstPurchasedTokenId
-);
-```
-
-and if salesComment is not unset (in solidity, is not an empty string) `''`:
-
-```sol
-event IERC721Drop.MintComment(
-    address sender, // Address sending the mint
-    address tokenContract, // Current NFT contract
-    uint256 tokenId,
-    uint256 quantity,
-    string comment
-);
-```
