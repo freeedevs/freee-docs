@@ -1,5 +1,5 @@
 ---
-description: This article applies to both editions and collection
+description: This article applies to both editions and collections
 ---
 
 # How can I create an Allowlist?

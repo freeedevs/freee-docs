@@ -20,10 +20,14 @@ description: Advice and answers from the Freee Team
 
 [Learn more about our fees and how they work](<FREEE Mint & Collect Fees.md>)
 
-## 5. Freee FAQs
+## 5. Create, share, and collect to earn
+
+[Learn more about Create, share, and collect to earn on Freee.xyz](create-share-and-collect-to-earn/)
+
+## 6. Freee FAQs
 
 [Answers to commonly asked questions](<FREEE FAQs/>)
 
-## 6. Legal
+## 7. Legal
 
 [Freee Terms of Service and Privacy Policy](legal/)

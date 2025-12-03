@@ -6,7 +6,7 @@ description: Breakdown of your "Artworks Folder" components
 
 Follow information below to further understand the components of your "Artwork Folder".
 
-1. Inside your **media** folder, there must be the correct number of artworks you intend to upload as part of your drop. It is essential to ensure you have placed the correct number of artworks in your folder because once you have created your collection, the number of artworks **cannot be changed**.
+1. Inside your **media** folder, there must be the correct number of artworks you intend to upload as part of your collection. It is essential to ensure you have placed the correct number of artworks in your folder because once you have created your collection, the number of artworks **cannot be changed**.
 2. These files must be formatted correctly and numbered 1, 2, 3 and so on. Ensure there are no hash mark (#) in the filename.
 
 <figure><img src="../../../.gitbook/assets/media 1.png" alt=""><figcaption></figcaption></figure>
