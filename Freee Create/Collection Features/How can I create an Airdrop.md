@@ -8,7 +8,7 @@ description: How to airdrop from your editions created on Freee.
 
 To create an airdrop, your edition must be onchain (minted from). You CANNOT create an airdrop from a premint edition. Once your edition has been brought onchain you will be able to access the airdrop feature. This feature allows you to send one NFT to another address without them needing to mint or pay for it.
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/manage-airdrop.png" alt=""><figcaption></figcaption></figure>
 
 1. First, navigate to your [Manage collection](https://freee.xyz/manage) and select your collection. ​
 2. Choose the edition that you would like to airdrop NFTs from.

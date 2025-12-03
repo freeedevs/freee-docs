@@ -10,7 +10,7 @@ What types of collections can you create? We have Three different collection typ
 
 1\. [Single-Edition (ERC-721)](<What can I create on Freee.md#id-1.-single-edition-erc-721>)
 
-2\. [Collection (ERC-721)](<What can I create on Freee.md#id-2.-drops-collection-erc-721>)
+2\. [Collection (ERC-721)](<What can I create on Freee.md#id-2.-collection-erc-721>)
 
 3.[ Multi-Edition (ERC-1155)](<What can I create on Freee.md#id-3.-multi-edition-erc-1155>)
 
@@ -23,7 +23,7 @@ A Edition is a dedicated contract and mint page for a collection of same NFTs. C
 _What are the features of a Edition?_
 
 * Unique artwork for each NFT
-* Support media types: Image, Video, Audio
+* Support media types: JPG, PNG, SVG, GIF, WEBP, MP4, Quicktime, MPEG, MP3, M4A, WAV, PDF, GLTF and GLB files.
 * Attributes
 * Updatable metadata
 * Royalties
@@ -44,7 +44,7 @@ _What are the features of a Edition?_
 
 A  collection a dedicated contract and mint page for a collection of unique NFTs. Check out an example collection [here](<What can I create on Freee.md#id-2.-drops-collection-erc-721>).
 
-_What are the features of a Drop?_
+_What are the features of a Collection?_
 
 * Unique artwork for each NFT
 * Support media types: Image, Video, Audio
@@ -72,7 +72,7 @@ _What are the features of a Multi-Edition?_
 
 * Create for free
 * Open and limited editions
-* Supported media types: Images, Video, PDF
+* Supported media types: Images, Video, PDF, Audio, GLB
 * Attributes
 * Updatable metadata
 * Auto Reserve

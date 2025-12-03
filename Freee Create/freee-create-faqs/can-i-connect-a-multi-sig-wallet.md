@@ -16,15 +16,15 @@ It is essential to make sure that you have set up your wallet with funds to appr
 
 * To connect your wallet, click "**connect wallet**" and select "**WalletConnect**".
 
-![](../../.gitbook/assets/multi-sig_1.jpg)
+<figure><img src="../../.gitbook/assets/wallet connect.png" alt=""><figcaption></figcaption></figure>
 
 * Select "**OPEN**" next to the title "Need the WalletConnect modal?"
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/open.png" alt=""><figcaption></figcaption></figure>
 
 * Copy the connection link by clicking "**Copy to clipboard icon**"
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/copy.png" alt=""><figcaption></figcaption></figure>
 
 * From the homepage of your gnosis-safe, select "**Use Wallet Connect Icon**"
 

@@ -6,17 +6,11 @@ description: Manage general settings of your collection.
 
 As owner/admin of a collection, you can update and change general settings of your collection.&#x20;
 
-### 1. Change Lock Trading Restriction
+### 1. Change Collection size
 
-<figure><img src="../../../.gitbook/assets/update lock trading.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/twenty.png" alt="" width="563"><figcaption></figcaption></figure>
 
-When Lock trading before mint out is enabled, NFTs minted in this collection is not trade-able in secondary market before whole collection mint out. If you wish to enable / disable trading restriction before collection mint out, follow steps below:
-
-1. **Toggle** Lock trading before mint out switch.
-2. Click on **Update** button .
-3.  **Approve** the Gas fee.
-
-    A message will appear within your connected wallet for you to approve the gas fee to complete the update. Gas fees are the cost of interacting with the blockchain. Gas fees are not set or collected by Freee.
+You may update your collection size when necessary, but only reductions are allowed.&#x20;
 
 ***
 
@@ -37,7 +31,7 @@ Your collection cover image (Collection thumbnail) and description on Freee are 
 
 ### 3. Change Payout Address
 
-<figure><img src="../../../.gitbook/assets/update payout address.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/thirty.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Payout address is address that will receive any withdrawal (collection minting fee) and royalties (from secondary market) for your collection. This address can be a personal wallet address, a multisig wallet address or even an external splits contract address. To update:
 

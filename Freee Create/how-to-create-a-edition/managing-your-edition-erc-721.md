@@ -8,13 +8,15 @@ The ways that you can find you can manage your single-edition and access your co
 
 Navigate to your Dashboard and select the collection you want to manage. A link to that page can be found [here](https://freee.xyz/manage).
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
-
 ***
+
+<figure><img src="../../.gitbook/assets/Three.png" alt=""><figcaption></figcaption></figure>
 
 ## Updating Information
 
-In the "**Settings**" of your single edition, you can update its metadata and sale configuration. These include **price**, **the start and end date** and setting a **minting limit** per address for your collection.
+Under the "**Settings**" section of your single edition, you can update its metadata and sale configuration. These include **size,** **price**, **the start and end date** and setting a **minting limit** per address for your collection.
+
+<figure><img src="../../.gitbook/assets/four.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/single-edition-manage_2.png)
 
@@ -22,13 +24,15 @@ You can also update the metadata of your collections, including the description,
 
 ![](../../.gitbook/assets/single-edition-manage_3.png)
 
-Once you are satisfied with the changes you have made
+You can change the **NFT Transferable** Mode anytime, depending on your preference.
 
-* Click **update** under the appropriate section
+<figure><img src="../../.gitbook/assets/five.png" alt="" width="563"><figcaption></figcaption></figure>
 
-This will prompt you to confirm with your wallet and **requires you to pay a gas fee**.
+Once you are satisfied with the changes you have made, click **update** under the appropriate section to save the changes you made.
 
-\*_Please note that anyone classified as an ADMIN can update and change this data_ \*
+Every update will come with wallet approval prompt and **requires you to pay a gas fee.**
+
+_\* Please note that every wallet added as an ADMIN will have permission to update the NFT settings._
 
 ***
 

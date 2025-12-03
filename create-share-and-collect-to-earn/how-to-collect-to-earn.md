@@ -1,4 +1,4 @@
-# How do I collect and earn?
+# How to collect to earn
 
 Minters play a crucial role in the NFT ecosystem. By collecting NFTs, you not only support creators but also have the chance to earn rewards.
 
@@ -8,7 +8,7 @@ Minters play a crucial role in the NFT ecosystem. By collecting NFTs, you not on
 
 Receive 100 Purple Diamonds for every NFT you mint on Freee. You can check your Diamonds on the airdrop page.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/purple.png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Potential Uses:**
 

@@ -6,21 +6,17 @@ description: A step-by-step guide on how to create a collection contract on Free
 
 Freee provides an easy-to-use, no-code-required solution to launch and manage NFT project. A  collection provide full-fledged solution for NFT launching, by allowing multi minting stages, collection reveal experience, disable collection secondary market trading before mint out and etc. Creators will be able to have full control on how they gonna launch their collection.
 
-## Want to test out your collection?
-
-We recommend using our [testnet](https://testnet.freee.xyz/) before setting your collection live. Testing on the testnet provides a risk-free environment where you can ensure that your collection functions correctly and identify any potential issues before they occur on the mainnet, saving your time and ETH.
-
 ***
 
 ## Creating your Collection
 
 Follow the step-by-step guide below to get your collection setup on Freee in no time.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-08-07 at 09.13.04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/six.png" alt=""><figcaption></figcaption></figure>
 
 1. Connect your wallet on [freee.xyz](https://www.freee.xyz/)
 2. Click the **"Create"** Button on the top right corner.
-3. Select **"Collection"** from the drop-down menu.
+3. Select **"FreeePad - Collection"** from the drop-down menu.
 4. Alternately, you may follow this link to get started: [https://freee.xyz/create/collection](https://freee.xyz/create/collection)
 
 ***
@@ -53,7 +49,7 @@ Most of the times, an NFT project will include multiple sale stages, including a
 
 **Important**: Do note that if you haven't confirm your decision on sale stages, both Presale and Public Sale, you are till able to proceed by click on **Continue** button and set it up later in Collection management page.
 
-<figure><img src="../../.gitbook/assets/sale stages.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/collection-create-sale stages.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 2.1 Setup Presale Stage
 
@@ -78,17 +74,11 @@ Click on the Add a Presale button to start setting up.&#x20;
 2. Decide **Start & end time** of public sale. This is **optional during contract creation**, but you are require to setup afterward, else your collection Presale stage won't start.
 3. Fill in **Mint limit per address** for public sale. This is **optional**, leave empty if don't want to limit number of NFT a user can mint.
 
-### 2.3 Lock trading before mint out
-
-It's up to project owner to decide whether to disable trading of collection's NFT on secondary market before collection mint out. This option is default tuned **ON** for collection.&#x20;
-
-<figure><img src="../../.gitbook/assets/Screenshot 2024-08-06 at 16.10.54.png" alt=""><figcaption></figcaption></figure>
-
 ***
 
 ## Step 3: Prepare for Reveal Experience
 
-What is a reveal experience?&#x20;
+**What is a reveal experience?**&#x20;
 
 Sometimes, creator/project owner don’t reveal their artwork until after the project mint out. When user participate in the collection mint, the NFT everyone mints will at first look the same, which is placeholder pre-reveal artwork. The “real” NFT metadata and artwork will be “revealed” afterward when the creator/project owner updates the collection NFT’s metadata.
 
@@ -111,9 +101,9 @@ Select **I want reveal experience, setup pre-reveal** option.
 
 Select **No reveal needed, upload collection artworks** option.
 
-Creator/project owner are provided with 2 ways to upload collection artworks.&#x20;
+Creator/project owner are provided with 3 ways to upload collection artworks.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-08-06 at 16.41.12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/seven.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Refer [How to upload collection artworks?](how-to-upload-collection-artworks.md) section for more details.
 
@@ -123,7 +113,7 @@ Refer [How to upload collection artworks?](how-to-upload-collection-artworks.md)
 
 This is the last step for creating a Collection on Freee. You are required to review all the setup you done in previous steps and if no problem found, proceed to click on the **Create** button.
 
-<figure><img src="../../.gitbook/assets/screencapture-freee-xyz-create-collection-2024-08-06-16_46_10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screencapture-freee-xyz-create-collection-2024-08-06-16_46_10.png" alt="" width="405"><figcaption></figcaption></figure>
 
 Once you click the "**Create**" button to finish creating your collection. This will prompt you to accept a gas fee, refer steps below:
 

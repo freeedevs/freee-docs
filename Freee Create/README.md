@@ -16,7 +16,7 @@ Learn more about the types of collections you are able to create with Freee.
 
 [How to create a Single-Edition](how-to-create-a-edition/how-to-create-a-edition.md)
 
-Follow our guide for creating an Single-edition(ERC-721) collection on Freee.
+Follow our guide for creating an Single-Edition(ERC-721) collection on Freee.
 
 ### 2.2 Managing your Single-Edition
 
@@ -24,31 +24,31 @@ Follow our guide for creating an Single-edition(ERC-721) collection on Freee.
 
 Guide to managing your ERC-721 edition.
 
-## 3. Drops Collection (ERC-721)
+## 3. Collection (ERC-721)
 
-### 3.1 How to create a Drop (ERC-721)
+### 3.1 How to create a Collection (ERC-721)
 
-[How to create a Drop (ERC-721)](/broken/pages/TUIinGNv2PpHq8PDj9zw)
+[How to create a Collection (ERC-721)](../freee-create/collection-erc-721/how-to-create-a-collection-erc721.md)
 
 A step-by-step guide on how to create a drop contract on Freee.
 
-### 3.2 Managing your Drop (ERC-721)
+### 3.2 Managing your Collection (ERC-721)
 
-[Managing your Drop (ERC-721)](/broken/pages/eFzkiZXOSGpneZrXPWHf)
+[Managing your Collection (ERC-721)](../freee-create/collection-erc-721/managing-your-collection-erc721/)
 
 A guide to managing your drop collection.
 
-### 3.3 How to set up the .csv file in your Drops collection
+### 3.3 How to set up the .csv file in your Collection
 
-[How to set up the .csv file in your Drops collection](/broken/pages/bwTyv5u2dva395yWmA0W)
+[How to set up the .csv file in your collection](./#id-3.3-how-to-set-up-the-.csv-file-in-your-collection)
 
-This is a guide to creating and formatting the .csv file for your drop.
+This is a guide to creating and formatting the .csv file for your collection.
 
-### 3.4 How to set up the artwork folder for your Drops collection
+### 3.4 How to set up the artwork folder for your Collection
 
-[How to set up the artwork folder for your Drops collection](/broken/pages/RQuc7HpJwbwkiz3m58P7)
+[How to set up the artwork folder for your collection](./#id-3.4-how-to-set-up-the-artwork-folder-for-your-collection)
 
-This is a guide to creating and formatting the artwork folder for your drop.
+This is a guide to creating and formatting the artwork folder for your collection.
 
 ## 4. Multi-Edition (ERC-1155)
 

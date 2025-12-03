@@ -46,13 +46,13 @@ Be a referral and share your invite code for your friend to join Freee Airdrop. 
 
 Find your referral code under Referals section and track your successful invite here.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Points.png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Sharing Task
 
 Another way for you to earn Freee Points is by completing a sharing task and get **200 Freee Points**. Find Airdrop boost section in Airdrop dashboard page and complete this task by clicking on the **Post on X** button and proceed to share the post.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Airdrop boots.png" alt=""><figcaption></figcaption></figure>
 
 **Potential Uses:**
 
@@ -77,7 +77,7 @@ The Create Referral is part of our Protocol Rewards, which allows you to **earn 
 
 ### **How do I share my Create Referral Link? (mobile)**
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="365"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/m-invite.png" alt="" width="188"><figcaption></figcaption></figure>
 
 1. Open menu by click on profile gravatar,  then select **Invite.**
 2. Viewing your referral, you can share your referral easily by copying your link or through your social accounts:
@@ -91,7 +91,7 @@ The Create Referral is part of our Protocol Rewards, which allows you to **earn 
 
 &#x20;   &#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/invite.png" alt=""><figcaption></figcaption></figure>
 
 1. To invite a creator to Freee, select **Invite** from top navigation bar.
 2. Viewing your referral, you can share your referral easily by copying your link or through your social accounts:

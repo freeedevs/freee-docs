@@ -26,7 +26,7 @@ To claim your rewards:
 2. Click on your Profile Picture on top right corner and you may find your earned rewards in the dropdown.
 3. Click on the **Claim** button to get your rewards!
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Claim platform fee sharing earned on Freee</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Claim.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -34,7 +34,7 @@ To claim your rewards:
 
 Other than platform fee sharing, creator automatically earn 100 Blue Diamonds with every successful mint of your NFT by a user, you. You can check your Diamonds on the airdrop page.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Blue diamonds rewards</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Blue.png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Potential Uses:**
 

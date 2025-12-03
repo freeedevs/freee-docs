@@ -12,10 +12,9 @@ Once your wallet is ready to connect, you can do this via the [Freee homepage](h
 
 1. Click on the **"Connect"** button on the top right corner of the page.
 2. Select your wallet type.
-
-![](../.gitbook/assets/connect-wallet_1.gif)
-
 3. Follow the instructions within your connected wallet.
+
+<figure><img src="../.gitbook/assets/connect wallet (2).gif" alt=""><figcaption></figcaption></figure>
 
 🎉 Your account has now been connected with Freee! 🎉
 

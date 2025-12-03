@@ -1,17 +1,4 @@
----
-description: The NFT contracts created from the `NFTCreator` are known as an `ERC721Drop`.
----
-
 # NFT Implementation
-
-Each drop contract is cloned from an `implementation` address and receives its own address.
-
-Both `Editions` and `Drops` use the same base contract but have different metadata rendering contracts.
-
-View the list of deployed contract addresses [here](../contract-addresses/).
-
-* `Edition`: A collection where all the NFTs share the same media asset.
-* `Drop`: A collection where all the NFTs have individual pieces of media.
 
 ## Sales Configuration
 

@@ -27,14 +27,14 @@ If you wish to change collection pre-reveal image to something else or update th
 
 ## Reveal Collection
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-08-20 at 09.34.22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/eleven.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Collection reveal normally happen after collection is minted out. Creator/Project owner will then upload and reveal their real collection to collectors.&#x20;
 
 To reveal your collection,
 
 1. Upload your collection artworks. \
-   Freee provide 2 ways for creator/project owner to upload collection artwork. You can choose either **Upload from your computer** or **Import self-hosted collection artworks**.\
+   Freee provide 3 ways for creator/project owner to upload collection artwork. You can choose either **Upload from your computer** or **Import self-hosted collection artworks** or **Import from Freee Generator**.\
    You can find more detail on how to upload collection artworks [here](../how-to-upload-collection-artworks.md).
 2. Click on **Reveal** button when your artwork ready.
 3.  **Approve** the Gas fee.

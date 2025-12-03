@@ -6,8 +6,6 @@ description: Creator contracts make it easy to deploy and sell an NFT collection
 
 These contracts allow anyone to deploy an NFT collection in seconds. In addition, these contracts **provide built-in sales mechanics**, making it easy to both deploy a collection and sell the initial mints.
 
-* [Testnet UI](https://testnet.freee.xyz/) - Test out deploying a contract
-
 ## 1155 vs 721
 
 * `1155`: Multiple editions are stored in the same contract.

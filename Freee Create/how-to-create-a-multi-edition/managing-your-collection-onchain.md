@@ -10,15 +10,15 @@ To access the "_Manage Collection_" section for your collection, you'll first ne
 
 \*\*_A link to your manage page can also be found_ [_here_](https://freee.xyz/manage)_._
 
-<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nineteen (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## 2. Managing your Collection and Editions
 
-There are "**TWO**" levels of settings that you can manage within your collection.
+There are **2** levels of settings that you can manage within your collection.
 
-1. The first is your overall collection. _(This is where all your editions live)_
+1. The first is your overall collection, where all your editions live.
 2. The second is the individual editions that you have uploaded.
 
 ***
@@ -27,7 +27,7 @@ There are "**TWO**" levels of settings that you can manage within your collectio
 
 #### 2.1.1 Collection Overview
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/twenty (1).png" alt=""><figcaption></figcaption></figure>
 
 In your settings, you can currently update and change the metadata of your **collection** and your **editions**. For your individual editions, you can also create airdrops and allowlists.
 
@@ -37,7 +37,7 @@ While viewing the overview page of your collection, you can **Add/Modify your Tw
 
 To update your collection, navigate to the **"Settings"** tab. From here, you can update your collection **name**, **description**, **thumbnail** and **Admins**.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/twenty-one.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -47,7 +47,7 @@ To update your collection, navigate to the **"Settings"** tab. From here, you ca
 
 You can select the edition from your collection overview page to update one of your editions within your 1155 collection. From here, you can update your edition's **sale configuration**, view the number of tokens that have been minted, create an **airdrop**, and manage your **allowlist**.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/twenty-two.png" alt=""><figcaption></figcaption></figure>
 
 #### 2.2.2 Manage your Airdrop
 
@@ -56,9 +56,17 @@ You can select the edition from your collection overview page to update one of y
 
 If you'd like to start over, click on Reset, and all of the wallets added will be deleted.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/twenty-three.png" alt=""><figcaption></figcaption></figure>
 
-#### 2.2.3 Manage your Allowlist
+#### 2.2.3 Manage your Admin Mint
+
+1. At the NFT Dashboard, go to the Admin Mint section.
+2. Enter the wallet address and amount you want to mint to.&#x20;
+3. Click on Admin Mint button and approve the transaction to complete the process.
+
+<figure><img src="../../.gitbook/assets/twenty-five.png" alt=""><figcaption></figcaption></figure>
+
+#### 2.2.4 Manage your Allowlist
 
 If you want to make a pre-sale or give different mint prices to specific wallets, you can create an **Allowlist**. In order to create an allowlist you can follow our quick guide below
 
@@ -68,16 +76,17 @@ If you want to make a pre-sale or give different mint prices to specific wallets
 
 **You can create multiple Allowlists for different prices, mint limits, and addresses.**
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/twenty-six.png" alt=""><figcaption></figcaption></figure>
 
-#### 2.2.4 Manage your Edition Settings
+#### 2.2.5 Manage your Edition Settings
 
-Select the Settings tab to update your collection's metadata, including the edition's **name**, **description**, **attributes** and **artwork file**.
+Select the Settings tab to update your collection's size and metadata, including the edition's **name**, **description**, **attributes** and **artwork file**.
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/twenty-four (2).png" alt=""><figcaption></figcaption></figure>
 
 Once you are satisfied with the changes you have made:
 
 1. Click **update**.
 2. Approve the Gas fee: A message will appear within your connected wallet for you to approve the gas fee to complete the update of your collection. Gas fees are the cost of interacting with the Ethereum blockchain. Gas fees are not set or collected by Freee.
 3. Once the transaction has been confirmed, your changes/updates will be saved on-chain.
+
